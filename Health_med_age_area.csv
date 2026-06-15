@@ -1,0 +1,1571 @@
+Area code,General health (6 categories),Observation,total_responses,Percent of all health responses,Area name,Median age
+E06000001,Very good health,39817,92338,43.12,Hartlepool,42
+E06000001,Good health,30749,92338,33.3,Hartlepool,42
+E06000001,Fair health,14415,92338,15.61,Hartlepool,42
+E06000001,Bad health,5625,92338,6.09,Hartlepool,42
+E06000001,Very bad health,1732,92338,1.88,Hartlepool,42
+E06000002,Very good health,67207,143924,46.7,Middlesbrough,37
+E06000002,Good health,46382,143924,32.23,Middlesbrough,37
+E06000002,Fair health,19821,143924,13.77,Middlesbrough,37
+E06000002,Bad health,7969,143924,5.54,Middlesbrough,37
+E06000002,Very bad health,2545,143924,1.77,Middlesbrough,37
+E06000003,Very good health,58085,136531,42.54,Redcar and Cleveland,46
+E06000003,Good health,46416,136531,34.0,Redcar and Cleveland,46
+E06000003,Fair health,21633,136531,15.84,Redcar and Cleveland,46
+E06000003,Bad health,7916,136531,5.8,Redcar and Cleveland,46
+E06000003,Very bad health,2481,136531,1.82,Redcar and Cleveland,46
+E06000004,Very good health,91479,196595,46.53,Stockton-on-Tees,41
+E06000004,Good health,65521,196595,33.33,Stockton-on-Tees,41
+E06000004,Fair health,27307,196595,13.89,Stockton-on-Tees,41
+E06000004,Bad health,9392,196595,4.78,Stockton-on-Tees,41
+E06000004,Very bad health,2896,196595,1.47,Stockton-on-Tees,41
+E06000005,Very good health,48749,107800,45.22,Darlington,43
+E06000005,Good health,37324,107800,34.62,Darlington,43
+E06000005,Fair health,15383,107800,14.27,Darlington,43
+E06000005,Bad health,5016,107800,4.65,Darlington,43
+E06000005,Very bad health,1328,107800,1.23,Darlington,43
+E06000006,Very good health,59066,128480,45.97,Halton,41
+E06000006,Good health,41455,128480,32.27,Halton,41
+E06000006,Fair health,18088,128480,14.08,Halton,41
+E06000006,Bad health,7491,128480,5.83,Halton,41
+E06000006,Very bad health,2380,128480,1.85,Halton,41
+E06000007,Very good health,105613,210974,50.06,Warrington,42
+E06000007,Good health,69138,210974,32.77,Warrington,42
+E06000007,Fair health,25599,210974,12.13,Warrington,42
+E06000007,Bad health,8265,210974,3.92,Warrington,42
+E06000007,Very bad health,2359,210974,1.12,Warrington,42
+E06000008,Very good health,73950,154738,47.79,Blackburn with Darwen,36
+E06000008,Good health,50010,154738,32.32,Blackburn with Darwen,36
+E06000008,Fair health,20507,154738,13.25,Blackburn with Darwen,36
+E06000008,Bad health,7826,154738,5.06,Blackburn with Darwen,36
+E06000008,Very bad health,2445,154738,1.58,Blackburn with Darwen,36
+E06000009,Very good health,56933,141036,40.37,Blackpool,43
+E06000009,Good health,47255,141036,33.51,Blackpool,43
+E06000009,Fair health,23963,141036,16.99,Blackpool,43
+E06000009,Bad health,9777,141036,6.93,Blackpool,43
+E06000009,Very bad health,3108,141036,2.2,Blackpool,43
+E06000010,Very good health,115776,267014,43.36,Kingston upon Hull,37
+E06000010,Good health,93150,267014,34.89,Kingston upon Hull,37
+E06000010,Fair health,39851,267014,14.92,Kingston upon Hull,37
+E06000010,Bad health,13999,267014,5.24,Kingston upon Hull,37
+E06000010,Very bad health,4238,267014,1.59,Kingston upon Hull,37
+E06000011,Very good health,153547,342215,44.87,East Riding of Yorkshire,49
+E06000011,Good health,121117,342215,35.39,East Riding of Yorkshire,49
+E06000011,Fair health,49161,342215,14.37,East Riding of Yorkshire,49
+E06000011,Bad health,14088,342215,4.12,East Riding of Yorkshire,49
+E06000011,Very bad health,4302,342215,1.26,East Riding of Yorkshire,49
+E06000012,Very good health,67586,156966,43.06,North East Lincolnshire,43
+E06000012,Good health,54939,156966,35.0,North East Lincolnshire,43
+E06000012,Fair health,24237,156966,15.44,North East Lincolnshire,43
+E06000012,Bad health,7911,156966,5.04,North East Lincolnshire,43
+E06000012,Very bad health,2293,156966,1.46,North East Lincolnshire,43
+E06000013,Very good health,72786,169680,42.9,North Lincolnshire,44
+E06000013,Good health,60954,169680,35.92,North Lincolnshire,44
+E06000013,Fair health,25702,169680,15.15,North Lincolnshire,44
+E06000013,Bad health,8003,169680,4.72,North Lincolnshire,44
+E06000013,Very bad health,2235,169680,1.32,North Lincolnshire,44
+E06000014,Very good health,98610,202821,48.62,York,39
+E06000014,Good health,71033,202821,35.02,York,39
+E06000014,Fair health,24604,202821,12.13,York,39
+E06000014,Bad health,6788,202821,3.35,York,39
+E06000014,Very bad health,1786,202821,0.88,York,39
+E06000015,Very good health,119809,261364,45.84,Derby,37
+E06000015,Good health,90551,261364,34.65,Derby,37
+E06000015,Fair health,35857,261364,13.72,Derby,37
+E06000015,Bad health,11542,261364,4.42,Derby,37
+E06000015,Very bad health,3605,261364,1.38,Derby,37
+E06000016,Very good health,179719,368571,48.76,Leicester,33
+E06000016,Good health,123425,368571,33.49,Leicester,33
+E06000016,Fair health,46156,368571,12.52,Leicester,33
+E06000016,Bad health,14749,368571,4.0,Leicester,33
+E06000016,Very bad health,4522,368571,1.23,Leicester,33
+E06000017,Very good health,20666,41049,50.34,Rutland,46
+E06000017,Good health,14063,41049,34.26,Rutland,46
+E06000017,Fair health,4869,41049,11.86,Rutland,46
+E06000017,Bad health,1169,41049,2.85,Rutland,46
+E06000017,Very bad health,282,41049,0.69,Rutland,46
+E06000018,Very good health,153956,323632,47.57,Nottingham,31
+E06000018,Good health,108292,323632,33.46,Nottingham,31
+E06000018,Fair health,41863,323632,12.94,Nottingham,31
+E06000018,Bad health,14787,323632,4.57,Nottingham,31
+E06000018,Very bad health,4734,323632,1.46,Nottingham,31
+E06000019,Very good health,85521,187034,45.72,Herefordshire,48
+E06000019,Good health,65655,187034,35.1,Herefordshire,48
+E06000019,Fair health,26040,187034,13.92,Herefordshire,48
+E06000019,Bad health,7641,187034,4.09,Herefordshire,48
+E06000019,Very bad health,2177,187034,1.16,Herefordshire,48
+E06000020,Very good health,85273,185541,45.96,Telford and Wrekin,39
+E06000020,Good health,63231,185541,34.08,Telford and Wrekin,39
+E06000020,Fair health,25683,185541,13.84,Telford and Wrekin,39
+E06000020,Bad health,8812,185541,4.75,Telford and Wrekin,39
+E06000020,Very bad health,2542,185541,1.37,Telford and Wrekin,39
+E06000021,Very good health,110241,258369,42.67,Stoke-on-Trent,38
+E06000021,Good health,90840,258369,35.16,Stoke-on-Trent,38
+E06000021,Fair health,38276,258369,14.81,Stoke-on-Trent,38
+E06000021,Bad health,14546,258369,5.63,Stoke-on-Trent,38
+E06000021,Very bad health,4466,258369,1.73,Stoke-on-Trent,38
+E06000022,Very good health,100186,193409,51.8,Bath and North East Somerset,40
+E06000022,Good health,63514,193409,32.84,Bath and North East Somerset,40
+E06000022,Fair health,21853,193409,11.3,Bath and North East Somerset,40
+E06000022,Bad health,6121,193409,3.16,Bath and North East Somerset,40
+E06000022,Very bad health,1735,193409,0.9,Bath and North East Somerset,40
+E06000023,Very good health,240060,472465,50.81,Bristol,34
+E06000023,Good health,154643,472465,32.73,Bristol,34
+E06000023,Fair health,54311,472465,11.5,Bristol,34
+E06000023,Bad health,18032,472465,3.82,Bristol,34
+E06000023,Very bad health,5419,472465,1.15,Bristol,34
+E06000024,Very good health,103098,216727,47.57,North Somerset,45
+E06000024,Good health,73421,216727,33.88,North Somerset,45
+E06000024,Fair health,28789,216727,13.28,North Somerset,45
+E06000024,Bad health,8897,216727,4.11,North Somerset,45
+E06000024,Very bad health,2522,216727,1.16,North Somerset,45
+E06000025,Very good health,144395,290424,49.72,South Gloucestershire,40
+E06000025,Good health,99207,290424,34.16,South Gloucestershire,40
+E06000025,Fair health,34595,290424,11.91,South Gloucestershire,40
+E06000025,Bad health,9529,290424,3.28,South Gloucestershire,40
+E06000025,Very bad health,2698,290424,0.93,South Gloucestershire,40
+E06000026,Very good health,121117,264695,45.76,Plymouth,39
+E06000026,Good health,89371,264695,33.76,Plymouth,39
+E06000026,Fair health,37196,264695,14.05,Plymouth,39
+E06000026,Bad health,13109,264695,4.95,Plymouth,39
+E06000026,Very bad health,3902,264695,1.47,Plymouth,39
+E06000027,Very good health,58842,139324,42.23,Torbay,49
+E06000027,Good health,47697,139324,34.23,Torbay,49
+E06000027,Fair health,22578,139324,16.21,Torbay,49
+E06000027,Bad health,7894,139324,5.67,Torbay,49
+E06000027,Very bad health,2313,139324,1.66,Torbay,49
+E06000030,Very good health,112213,233410,48.08,Swindon,39
+E06000030,Good health,82155,233410,35.2,Swindon,39
+E06000030,Fair health,28667,233410,12.28,Swindon,39
+E06000030,Bad health,8185,233410,3.51,Swindon,39
+E06000030,Very bad health,2190,233410,0.94,Swindon,39
+E06000031,Very good health,99550,215673,46.16,Peterborough,36
+E06000031,Good health,77378,215673,35.88,Peterborough,36
+E06000031,Fair health,27730,215673,12.86,Peterborough,36
+E06000031,Bad health,8582,215673,3.98,Peterborough,36
+E06000031,Very bad health,2433,215673,1.13,Peterborough,36
+E06000032,Very good health,109654,225261,48.68,Luton,34
+E06000032,Good health,77855,225261,34.56,Luton,34
+E06000032,Fair health,27073,225261,12.02,Luton,34
+E06000032,Bad health,8162,225261,3.62,Luton,34
+E06000032,Very bad health,2517,225261,1.12,Luton,34
+E06000033,Very good health,84380,180686,46.7,Southend-on-Sea,41
+E06000033,Good health,62139,180686,34.39,Southend-on-Sea,41
+E06000033,Fair health,24096,180686,13.34,Southend-on-Sea,41
+E06000033,Bad health,7793,180686,4.31,Southend-on-Sea,41
+E06000033,Very bad health,2278,180686,1.26,Southend-on-Sea,41
+E06000034,Very good health,89350,176001,50.77,Thurrock,36
+E06000034,Good health,58689,176001,33.35,Thurrock,36
+E06000034,Fair health,20323,176001,11.55,Thurrock,36
+E06000034,Bad health,5904,176001,3.35,Thurrock,36
+E06000034,Very bad health,1735,176001,0.99,Thurrock,36
+E06000035,Very good health,132845,279775,47.48,Medway,39
+E06000035,Good health,96739,279775,34.58,Medway,39
+E06000035,Fair health,35907,279775,12.83,Medway,39
+E06000035,Bad health,11171,279775,3.99,Medway,39
+E06000035,Very bad health,3113,279775,1.11,Medway,39
+E06000036,Very good health,65829,124610,52.83,Bracknell Forest,39
+E06000036,Good health,42515,124610,34.12,Bracknell Forest,39
+E06000036,Fair health,12273,124610,9.85,Bracknell Forest,39
+E06000036,Bad health,3147,124610,2.53,Bracknell Forest,39
+E06000036,Very bad health,846,124610,0.68,Bracknell Forest,39
+E06000037,Very good health,82413,161449,51.05,West Berkshire,43
+E06000037,Good health,55946,161449,34.65,West Berkshire,43
+E06000037,Fair health,17685,161449,10.95,West Berkshire,43
+E06000037,Bad health,4319,161449,2.68,West Berkshire,43
+E06000037,Very bad health,1086,161449,0.67,West Berkshire,43
+E06000038,Very good health,89196,174224,51.2,Reading,35
+E06000038,Good health,60019,174224,34.45,Reading,35
+E06000038,Fair health,18627,174224,10.69,Reading,35
+E06000038,Bad health,5018,174224,2.88,Reading,35
+E06000038,Very bad health,1364,174224,0.78,Reading,35
+E06000039,Very good health,81941,158500,51.7,Slough,34
+E06000039,Good health,53816,158500,33.95,Slough,34
+E06000039,Fair health,16804,158500,10.6,Slough,34
+E06000039,Bad health,4625,158500,2.92,Slough,34
+E06000039,Very bad health,1314,158500,0.83,Slough,34
+E06000040,Very good health,85594,153496,55.76,Windsor and Maidenhead,42
+E06000040,Good health,48793,153496,31.79,Windsor and Maidenhead,42
+E06000040,Fair health,14471,153496,9.43,Windsor and Maidenhead,42
+E06000040,Bad health,3636,153496,2.37,Windsor and Maidenhead,42
+E06000040,Very bad health,1002,153496,0.65,Windsor and Maidenhead,42
+E06000041,Very good health,97553,177500,54.96,Wokingham,41
+E06000041,Good health,58866,177500,33.16,Wokingham,41
+E06000041,Fair health,16372,177500,9.22,Wokingham,41
+E06000041,Bad health,3676,177500,2.07,Wokingham,41
+E06000041,Very bad health,1033,177500,0.58,Wokingham,41
+E06000042,Very good health,146636,287060,51.08,Milton Keynes,37
+E06000042,Good health,96796,287060,33.72,Milton Keynes,37
+E06000042,Fair health,31721,287060,11.05,Milton Keynes,37
+E06000042,Bad health,9239,287060,3.22,Milton Keynes,37
+E06000042,Very bad health,2668,287060,0.93,Milton Keynes,37
+E06000043,Very good health,139078,277103,50.19,Brighton and Hove,38
+E06000043,Good health,91878,277103,33.16,Brighton and Hove,38
+E06000043,Fair health,32118,277103,11.59,Brighton and Hove,38
+E06000043,Bad health,10757,277103,3.88,Brighton and Hove,38
+E06000043,Very bad health,3272,277103,1.18,Brighton and Hove,38
+E06000044,Very good health,98505,208003,47.36,Portsmouth,36
+E06000044,Good health,72447,208003,34.83,Portsmouth,36
+E06000044,Fair health,26740,208003,12.86,Portsmouth,36
+E06000044,Bad health,8000,208003,3.85,Portsmouth,36
+E06000044,Very bad health,2311,208003,1.11,Portsmouth,36
+E06000045,Very good health,118703,248922,47.69,Southampton,34
+E06000045,Good health,87353,248922,35.09,Southampton,34
+E06000045,Fair health,30497,248922,12.25,Southampton,34
+E06000045,Bad health,9536,248922,3.83,Southampton,34
+E06000045,Very bad health,2833,248922,1.14,Southampton,34
+E06000046,Very good health,56014,140459,39.88,Isle of Wight,51
+E06000046,Good health,51903,140459,36.95,Isle of Wight,51
+E06000046,Fair health,23077,140459,16.43,Isle of Wight,51
+E06000046,Bad health,7386,140459,5.26,Isle of Wight,51
+E06000046,Very bad health,2079,140459,1.48,Isle of Wight,51
+E06000047,Very good health,224293,522068,42.96,County Durham,44
+E06000047,Good health,176980,522068,33.9,County Durham,44
+E06000047,Fair health,81624,522068,15.63,County Durham,44
+E06000047,Bad health,30167,522068,5.78,County Durham,44
+E06000047,Very bad health,9004,522068,1.72,County Durham,44
+E06000049,Very good health,198755,398769,49.84,Cheshire East,45
+E06000049,Good health,132827,398769,33.31,Cheshire East,45
+E06000049,Fair health,48431,398769,12.15,Cheshire East,45
+E06000049,Bad health,14513,398769,3.64,Cheshire East,45
+E06000049,Very bad health,4243,398769,1.06,Cheshire East,45
+E06000050,Very good health,174349,357150,48.82,Cheshire West and Chester,43
+E06000050,Good health,118810,357150,33.27,Cheshire West and Chester,43
+E06000050,Fair health,45293,357150,12.68,Cheshire West and Chester,43
+E06000050,Bad health,14499,357150,4.06,Cheshire West and Chester,43
+E06000050,Very bad health,4199,357150,1.18,Cheshire West and Chester,43
+E06000051,Very good health,150899,323606,46.63,Shropshire,48
+E06000051,Good health,112330,323606,34.71,Shropshire,48
+E06000051,Fair health,43932,323606,13.58,Shropshire,48
+E06000051,Bad health,12796,323606,3.95,Shropshire,48
+E06000051,Very bad health,3649,323606,1.13,Shropshire,48
+E06000052,Very good health,260855,570305,45.74,Cornwall,47
+E06000052,Good health,191185,570305,33.52,Cornwall,47
+E06000052,Fair health,82985,570305,14.55,Cornwall,47
+E06000052,Bad health,26972,570305,4.73,Cornwall,47
+E06000052,Very bad health,8308,570305,1.46,Cornwall,47
+E06000053,Very good health,1054,2054,51.31,Isles of Scilly,45
+E06000053,Good health,677,2054,32.96,Isles of Scilly,45
+E06000053,Fair health,240,2054,11.68,Isles of Scilly,45
+E06000053,Bad health,66,2054,3.21,Isles of Scilly,45
+E06000053,Very bad health,17,2054,0.83,Isles of Scilly,45
+E06000054,Very good health,252803,510333,49.54,Wiltshire,44
+E06000054,Good health,173908,510333,34.08,Wiltshire,44
+E06000054,Fair health,62034,510333,12.16,Wiltshire,44
+E06000054,Bad health,16995,510333,3.33,Wiltshire,44
+E06000054,Very bad health,4593,510333,0.9,Wiltshire,44
+E06000055,Very good health,90419,185225,48.82,Bedford,39
+E06000055,Good health,64772,185225,34.97,Bedford,39
+E06000055,Fair health,21942,185225,11.85,Bedford,39
+E06000055,Bad health,6357,185225,3.43,Bedford,39
+E06000055,Very bad health,1735,185225,0.94,Bedford,39
+E06000056,Very good health,148210,294252,50.37,Central Bedfordshire,40
+E06000056,Good health,101486,294252,34.49,Central Bedfordshire,40
+E06000056,Fair health,33332,294252,11.33,Central Bedfordshire,40
+E06000056,Bad health,8817,294252,3.0,Central Bedfordshire,40
+E06000056,Very bad health,2407,294252,0.82,Central Bedfordshire,40
+E06000057,Very good health,140289,320567,43.76,Northumberland,48
+E06000057,Good health,110887,320567,34.59,Northumberland,48
+E06000057,Fair health,49447,320567,15.42,Northumberland,48
+E06000057,Bad health,15644,320567,4.88,Northumberland,48
+E06000057,Very bad health,4300,320567,1.34,Northumberland,48
+E06000058,Very good health,190242,400196,47.54,"Bournemouth, Christchurch and Poole",42
+E06000058,Good health,136523,400196,34.11,"Bournemouth, Christchurch and Poole",42
+E06000058,Fair health,52466,400196,13.11,"Bournemouth, Christchurch and Poole",42
+E06000058,Bad health,16230,400196,4.06,"Bournemouth, Christchurch and Poole",42
+E06000058,Very bad health,4735,400196,1.18,"Bournemouth, Christchurch and Poole",42
+E06000059,Very good health,170366,379579,44.88,Dorset,51
+E06000059,Good health,135867,379579,35.79,Dorset,51
+E06000059,Fair health,54010,379579,14.23,Dorset,51
+E06000059,Bad health,15166,379579,4.0,Dorset,51
+E06000059,Very bad health,4170,379579,1.1,Dorset,51
+E06000060,Very good health,293915,553079,53.14,Buckinghamshire,42
+E06000060,Good health,183564,553079,33.19,Buckinghamshire,42
+E06000060,Fair health,57178,553079,10.34,Buckinghamshire,42
+E06000060,Bad health,14525,553079,2.63,Buckinghamshire,42
+E06000060,Very bad health,3897,553079,0.7,Buckinghamshire,42
+E06000061,Very good health,166047,359524,46.19,North Northamptonshire,40
+E06000061,Good health,128657,359524,35.79,North Northamptonshire,40
+E06000061,Fair health,47271,359524,13.15,North Northamptonshire,40
+E06000061,Bad health,13718,359524,3.82,North Northamptonshire,40
+E06000061,Very bad health,3831,359524,1.07,North Northamptonshire,40
+E06000062,Very good health,209457,425725,49.2,West Northamptonshire,40
+E06000062,Good health,149226,425725,35.05,West Northamptonshire,40
+E06000062,Fair health,49482,425725,11.62,West Northamptonshire,40
+E06000062,Bad health,13891,425725,3.26,West Northamptonshire,40
+E06000062,Very bad health,3669,425725,0.86,West Northamptonshire,40
+E07000008,Very good health,80195,145675,55.05,Cambridge,31
+E07000008,Good health,46807,145675,32.13,Cambridge,31
+E07000008,Fair health,13957,145675,9.58,Cambridge,31
+E07000008,Bad health,3715,145675,2.55,Cambridge,31
+E07000008,Very bad health,1001,145675,0.69,Cambridge,31
+E07000009,Very good health,42423,87762,48.34,East Cambridgeshire,43
+E07000009,Good health,30830,87762,35.13,East Cambridgeshire,43
+E07000009,Fair health,10879,87762,12.4,East Cambridgeshire,43
+E07000009,Bad health,2859,87762,3.26,East Cambridgeshire,43
+E07000009,Very bad health,771,87762,0.88,East Cambridgeshire,43
+E07000010,Very good health,41264,102462,40.27,Fenland,45
+E07000010,Good health,38407,102462,37.48,Fenland,45
+E07000010,Fair health,16256,102462,15.87,Fenland,45
+E07000010,Bad health,5064,102462,4.94,Fenland,45
+E07000010,Very bad health,1471,102462,1.44,Fenland,45
+E07000011,Very good health,86577,180833,47.88,Huntingdonshire,43
+E07000011,Good health,64569,180833,35.71,Huntingdonshire,43
+E07000011,Fair health,22026,180833,12.18,Huntingdonshire,43
+E07000011,Bad health,6085,180833,3.36,Huntingdonshire,43
+E07000011,Very bad health,1576,180833,0.87,Huntingdonshire,43
+E07000012,Very good health,84637,162116,52.21,South Cambridgeshire,42
+E07000012,Good health,54501,162116,33.62,South Cambridgeshire,42
+E07000012,Fair health,17419,162116,10.74,South Cambridgeshire,42
+E07000012,Bad health,4313,162116,2.66,South Cambridgeshire,42
+E07000012,Very bad health,1246,162116,0.77,South Cambridgeshire,42
+E07000032,Very good health,56072,126208,44.43,Amber Valley,46
+E07000032,Good health,44733,126208,35.44,Amber Valley,46
+E07000032,Fair health,18298,126208,14.5,Amber Valley,46
+E07000032,Bad health,5613,126208,4.45,Amber Valley,46
+E07000032,Very bad health,1492,126208,1.18,Amber Valley,46
+E07000033,Very good health,33546,80273,41.79,Bolsover,43
+E07000033,Good health,27509,80273,34.27,Bolsover,43
+E07000033,Fair health,12940,80273,16.12,Bolsover,43
+E07000033,Bad health,4844,80273,6.03,Bolsover,43
+E07000033,Very bad health,1434,80273,1.79,Bolsover,43
+E07000034,Very good health,42969,103569,41.49,Chesterfield,44
+E07000034,Good health,36035,103569,34.79,Chesterfield,44
+E07000034,Fair health,17062,103569,16.47,Chesterfield,44
+E07000034,Bad health,5874,103569,5.67,Chesterfield,44
+E07000034,Very bad health,1629,103569,1.57,Chesterfield,44
+E07000035,Very good health,34005,71540,47.53,Derbyshire Dales,51
+E07000035,Good health,24678,71540,34.5,Derbyshire Dales,51
+E07000035,Fair health,9585,71540,13.4,Derbyshire Dales,51
+E07000035,Bad health,2534,71540,3.54,Derbyshire Dales,51
+E07000035,Very bad health,738,71540,1.03,Derbyshire Dales,51
+E07000036,Very good health,50053,112906,44.33,Erewash,43
+E07000036,Good health,39919,112906,35.36,Erewash,43
+E07000036,Fair health,16552,112906,14.66,Erewash,43
+E07000036,Bad health,5020,112906,4.45,Erewash,43
+E07000036,Very bad health,1362,112906,1.21,Erewash,43
+E07000037,Very good health,43301,90933,47.62,High Peak,46
+E07000037,Good health,31083,90933,34.18,High Peak,46
+E07000037,Fair health,12007,90933,13.2,High Peak,46
+E07000037,Bad health,3535,90933,3.89,High Peak,46
+E07000037,Very bad health,1007,90933,1.11,High Peak,46
+E07000038,Very good health,44381,102001,43.51,North East Derbyshire,47
+E07000038,Good health,35060,102001,34.37,North East Derbyshire,47
+E07000038,Fair health,15945,102001,15.63,North East Derbyshire,47
+E07000038,Bad health,5166,102001,5.06,North East Derbyshire,47
+E07000038,Very bad health,1449,102001,1.42,North East Derbyshire,47
+E07000039,Very good health,51669,107208,48.2,South Derbyshire,41
+E07000039,Good health,36956,107208,34.47,South Derbyshire,41
+E07000039,Fair health,13642,107208,12.72,South Derbyshire,41
+E07000039,Bad health,3853,107208,3.59,South Derbyshire,41
+E07000039,Very bad health,1088,107208,1.01,South Derbyshire,41
+E07000040,Very good health,69973,150827,46.39,East Devon,50
+E07000040,Good health,52881,150827,35.06,East Devon,50
+E07000040,Fair health,20650,150827,13.69,East Devon,50
+E07000040,Bad health,5798,150827,3.84,East Devon,50
+E07000040,Very bad health,1525,150827,1.01,East Devon,50
+E07000041,Very good health,66498,130709,50.87,Exeter,36
+E07000041,Good health,43054,130709,32.94,Exeter,36
+E07000041,Fair health,15152,130709,11.59,Exeter,36
+E07000041,Bad health,4665,130709,3.57,Exeter,36
+E07000041,Very bad health,1340,130709,1.03,Exeter,36
+E07000042,Very good health,39073,82852,47.16,Mid Devon,46
+E07000042,Good health,28866,82852,34.84,Mid Devon,46
+E07000042,Fair health,10954,82852,13.22,Mid Devon,46
+E07000042,Bad health,3085,82852,3.72,Mid Devon,46
+E07000042,Very bad health,874,82852,1.05,Mid Devon,46
+E07000043,Very good health,46135,98611,46.78,North Devon,48
+E07000043,Good health,33154,98611,33.62,North Devon,48
+E07000043,Fair health,13705,98611,13.9,North Devon,48
+E07000043,Bad health,4352,98611,4.41,North Devon,48
+E07000043,Very bad health,1265,98611,1.28,North Devon,48
+E07000044,Very good health,43499,88627,49.08,South Hams,51
+E07000044,Good health,29405,88627,33.18,South Hams,51
+E07000044,Fair health,11292,88627,12.74,South Hams,51
+E07000044,Bad health,3413,88627,3.85,South Hams,51
+E07000044,Very bad health,1018,88627,1.15,South Hams,51
+E07000045,Very good health,61426,134803,45.57,Teignbridge,49
+E07000045,Good health,47053,134803,34.91,Teignbridge,49
+E07000045,Fair health,19026,134803,14.11,Teignbridge,49
+E07000045,Bad health,5739,134803,4.26,Teignbridge,49
+E07000045,Very bad health,1559,134803,1.16,Teignbridge,49
+E07000046,Very good health,29852,68114,43.83,Torridge,51
+E07000046,Good health,23713,68114,34.81,Torridge,51
+E07000046,Fair health,10453,68114,15.35,Torridge,51
+E07000046,Bad health,3216,68114,4.72,Torridge,51
+E07000046,Very bad health,880,68114,1.29,Torridge,51
+E07000047,Very good health,26007,57096,45.55,West Devon,51
+E07000047,Good health,19802,57096,34.68,West Devon,51
+E07000047,Fair health,8236,57096,14.42,West Devon,51
+E07000047,Bad health,2380,57096,4.17,West Devon,51
+E07000047,Very bad health,671,57096,1.18,West Devon,51
+E07000061,Very good health,43956,101689,43.23,Eastbourne,45
+E07000061,Good health,35844,101689,35.25,Eastbourne,45
+E07000061,Fair health,15503,101689,15.25,Eastbourne,45
+E07000061,Bad health,4946,101689,4.86,Eastbourne,45
+E07000061,Very bad health,1440,101689,1.42,Eastbourne,45
+E07000062,Very good health,38395,90994,42.2,Hastings,43
+E07000062,Good health,31864,90994,35.02,Hastings,43
+E07000062,Fair health,14122,90994,15.52,Hastings,43
+E07000062,Bad health,5025,90994,5.52,Hastings,43
+E07000062,Very bad health,1588,90994,1.75,Hastings,43
+E07000063,Very good health,45533,99905,45.58,Lewes,48
+E07000063,Good health,34732,99905,34.77,Lewes,48
+E07000063,Fair health,14156,99905,14.17,Lewes,48
+E07000063,Bad health,4297,99905,4.3,Lewes,48
+E07000063,Very bad health,1187,99905,1.19,Lewes,48
+E07000064,Very good health,39362,93110,42.27,Rother,53
+E07000064,Good health,33607,93110,36.09,Rother,53
+E07000064,Fair health,14561,93110,15.64,Rother,53
+E07000064,Bad health,4365,93110,4.69,Rother,53
+E07000064,Very bad health,1215,93110,1.3,Rother,53
+E07000065,Very good health,77218,160150,48.22,Wealden,49
+E07000065,Good health,55635,160150,34.74,Wealden,49
+E07000065,Fair health,20209,160150,12.62,Wealden,49
+E07000065,Bad health,5627,160150,3.51,Wealden,49
+E07000065,Very bad health,1461,160150,0.91,Wealden,49
+E07000066,Very good health,90914,187571,48.47,Basildon,39
+E07000066,Good health,64185,187571,34.22,Basildon,39
+E07000066,Fair health,23022,187571,12.27,Basildon,39
+E07000066,Bad health,7229,187571,3.85,Basildon,39
+E07000066,Very bad health,2221,187571,1.18,Basildon,39
+E07000067,Very good health,73375,155268,47.26,Braintree,43
+E07000067,Good health,55346,155268,35.65,Braintree,43
+E07000067,Fair health,19655,155268,12.66,Braintree,43
+E07000067,Bad health,5431,155268,3.5,Braintree,43
+E07000067,Very bad health,1461,155268,0.94,Braintree,43
+E07000068,Very good health,41588,77047,53.98,Brentwood,42
+E07000068,Good health,24413,77047,31.69,Brentwood,42
+E07000068,Fair health,8141,77047,10.57,Brentwood,42
+E07000068,Bad health,2214,77047,2.87,Brentwood,42
+E07000068,Very bad health,691,77047,0.9,Brentwood,42
+E07000069,Very good health,40925,89587,45.68,Castle Point,46
+E07000069,Good health,31438,89587,35.09,Castle Point,46
+E07000069,Fair health,12324,89587,13.76,Castle Point,46
+E07000069,Bad health,3807,89587,4.25,Castle Point,46
+E07000069,Very bad health,1093,89587,1.22,Castle Point,46
+E07000070,Very good health,93611,181523,51.57,Chelmsford,41
+E07000070,Good health,61388,181523,33.82,Chelmsford,41
+E07000070,Fair health,19993,181523,11.01,Chelmsford,41
+E07000070,Bad health,5089,181523,2.8,Chelmsford,41
+E07000070,Very bad health,1442,181523,0.79,Chelmsford,41
+E07000071,Very good health,94777,192715,49.18,Colchester,39
+E07000071,Good health,66963,192715,34.75,Colchester,39
+E07000071,Fair health,22916,192715,11.89,Colchester,39
+E07000071,Bad health,6281,192715,3.26,Colchester,39
+E07000071,Very bad health,1778,192715,0.92,Colchester,39
+E07000072,Very good health,69924,134980,51.8,Epping Forest,42
+E07000072,Good health,44362,134980,32.87,Epping Forest,42
+E07000072,Fair health,15163,134980,11.23,Epping Forest,42
+E07000072,Bad health,4214,134980,3.12,Epping Forest,42
+E07000072,Very bad health,1317,134980,0.98,Epping Forest,42
+E07000073,Very good health,44559,93328,47.74,Harlow,37
+E07000073,Good health,32106,93328,34.4,Harlow,37
+E07000073,Fair health,11913,93328,12.76,Harlow,37
+E07000073,Bad health,3659,93328,3.92,Harlow,37
+E07000073,Very bad health,1091,93328,1.17,Harlow,37
+E07000074,Very good health,30903,66208,46.68,Maldon,48
+E07000074,Good health,23469,66208,35.45,Maldon,48
+E07000074,Fair health,8677,66208,13.11,Maldon,48
+E07000074,Bad health,2487,66208,3.76,Maldon,48
+E07000074,Very bad health,672,66208,1.01,Maldon,48
+E07000075,Very good health,41866,85661,48.87,Rochford,45
+E07000075,Good health,29571,85661,34.52,Rochford,45
+E07000075,Fair health,10588,85661,12.36,Rochford,45
+E07000075,Bad health,2837,85661,3.31,Rochford,45
+E07000075,Very bad health,799,85661,0.93,Rochford,45
+E07000076,Very good health,58492,148292,39.44,Tendring,50
+E07000076,Good health,52819,148292,35.62,Tendring,50
+E07000076,Fair health,25460,148292,17.17,Tendring,50
+E07000076,Bad health,8891,148292,6.0,Tendring,50
+E07000076,Very bad health,2630,148292,1.77,Tendring,50
+E07000077,Very good health,49323,91341,54.0,Uttlesford,43
+E07000077,Good health,29898,91341,32.73,Uttlesford,43
+E07000077,Fair health,9180,91341,10.05,Uttlesford,43
+E07000077,Bad health,2301,91341,2.52,Uttlesford,43
+E07000077,Very bad health,639,91341,0.7,Uttlesford,43
+E07000078,Very good health,60237,118837,50.69,Cheltenham,40
+E07000078,Good health,39932,118837,33.6,Cheltenham,40
+E07000078,Fair health,13876,118837,11.68,Cheltenham,40
+E07000078,Bad health,3695,118837,3.11,Cheltenham,40
+E07000078,Very bad health,1097,118837,0.92,Cheltenham,40
+E07000079,Very good health,45781,90832,50.4,Cotswold,49
+E07000079,Good health,31041,90832,34.17,Cotswold,49
+E07000079,Fair health,10559,90832,11.62,Cotswold,49
+E07000079,Bad health,2698,90832,2.97,Cotswold,49
+E07000079,Very bad health,753,90832,0.83,Cotswold,49
+E07000080,Very good health,38990,87004,44.81,Forest of Dean,48
+E07000080,Good health,30908,87004,35.52,Forest of Dean,48
+E07000080,Fair health,12355,87004,14.2,Forest of Dean,48
+E07000080,Bad health,3662,87004,4.21,Forest of Dean,48
+E07000080,Very bad health,1089,87004,1.25,Forest of Dean,48
+E07000081,Very good health,61882,132416,46.73,Gloucester,39
+E07000081,Good health,46736,132416,35.29,Gloucester,39
+E07000081,Fair health,17259,132416,13.03,Gloucester,39
+E07000081,Bad health,5172,132416,3.91,Gloucester,39
+E07000081,Very bad health,1367,132416,1.03,Gloucester,39
+E07000082,Very good health,58893,121102,48.63,Stroud,47
+E07000082,Good health,42058,121102,34.73,Stroud,47
+E07000082,Fair health,15125,121102,12.49,Stroud,47
+E07000082,Bad health,4014,121102,3.31,Stroud,47
+E07000082,Very bad health,1012,121102,0.84,Stroud,47
+E07000083,Very good health,47236,94884,49.78,Tewkesbury,44
+E07000083,Good health,32541,94884,34.3,Tewkesbury,44
+E07000083,Fair health,11385,94884,12.0,Tewkesbury,44
+E07000083,Bad health,2956,94884,3.12,Tewkesbury,44
+E07000083,Very bad health,766,94884,0.81,Tewkesbury,44
+E07000084,Very good health,92794,185157,50.12,Basingstoke and Deane,40
+E07000084,Good health,64764,185157,34.98,Basingstoke and Deane,40
+E07000084,Fair health,20776,185157,11.22,Basingstoke and Deane,40
+E07000084,Bad health,5419,185157,2.93,Basingstoke and Deane,40
+E07000084,Very bad health,1404,185157,0.76,Basingstoke and Deane,40
+E07000085,Very good health,63828,125744,50.76,East Hampshire,46
+E07000085,Good health,43139,125744,34.31,East Hampshire,46
+E07000085,Fair health,14273,125744,11.35,East Hampshire,46
+E07000085,Bad health,3599,125744,2.86,East Hampshire,46
+E07000085,Very bad health,905,125744,0.72,East Hampshire,46
+E07000086,Very good health,67981,136443,49.82,Eastleigh,41
+E07000086,Good health,47400,136443,34.74,Eastleigh,41
+E07000086,Fair health,15896,136443,11.65,Eastleigh,41
+E07000086,Bad health,4088,136443,3.0,Eastleigh,41
+E07000086,Very bad health,1078,136443,0.79,Eastleigh,41
+E07000087,Very good health,55185,114513,48.19,Fareham,47
+E07000087,Good health,40519,114513,35.38,Fareham,47
+E07000087,Fair health,14190,114513,12.39,Fareham,47
+E07000087,Bad health,3698,114513,3.23,Fareham,47
+E07000087,Very bad health,921,114513,0.8,Fareham,47
+E07000088,Very good health,35504,81952,43.32,Gosport,43
+E07000088,Good health,29829,81952,36.4,Gosport,43
+E07000088,Fair health,12134,81952,14.81,Gosport,43
+E07000088,Bad health,3587,81952,4.38,Gosport,43
+E07000088,Very bad health,898,81952,1.1,Gosport,43
+E07000089,Very good health,54555,99408,54.88,Hart,43
+E07000089,Good health,32704,99408,32.9,Hart,43
+E07000089,Fair health,9344,99408,9.4,Hart,43
+E07000089,Bad health,2177,99408,2.19,Hart,43
+E07000089,Very bad health,628,99408,0.63,Hart,43
+E07000090,Very good health,55028,124208,44.3,Havant,46
+E07000090,Good health,44185,124208,35.57,Havant,46
+E07000090,Fair health,18023,124208,14.51,Havant,46
+E07000090,Bad health,5437,124208,4.38,Havant,46
+E07000090,Very bad health,1535,124208,1.24,Havant,46
+E07000091,Very good health,81075,175785,46.12,New Forest,51
+E07000091,Good health,62425,175785,35.51,New Forest,51
+E07000091,Fair health,23866,175785,13.58,New Forest,51
+E07000091,Bad health,6534,175785,3.72,New Forest,51
+E07000091,Very bad health,1885,175785,1.07,New Forest,51
+E07000092,Very good health,49428,99756,49.55,Rushmoor,38
+E07000092,Good health,34814,99756,34.9,Rushmoor,38
+E07000092,Fair health,11769,99756,11.8,Rushmoor,38
+E07000092,Bad health,2965,99756,2.97,Rushmoor,38
+E07000092,Very bad health,780,99756,0.78,Rushmoor,38
+E07000093,Very good health,65696,130492,50.34,Test Valley,44
+E07000093,Good health,44842,130492,34.36,Test Valley,44
+E07000093,Fair health,14925,130492,11.44,Test Valley,44
+E07000093,Bad health,3958,130492,3.03,Test Valley,44
+E07000093,Very bad health,1071,130492,0.82,Test Valley,44
+E07000094,Very good health,67850,127443,53.24,Winchester,43
+E07000094,Good health,41989,127443,32.95,Winchester,43
+E07000094,Fair health,13236,127443,10.39,Winchester,43
+E07000094,Bad health,3466,127443,2.72,Winchester,43
+E07000094,Very bad health,902,127443,0.71,Winchester,43
+E07000095,Very good health,49630,99007,50.13,Broxbourne,40
+E07000095,Good health,33422,99007,33.76,Broxbourne,40
+E07000095,Fair health,11621,99007,11.74,Broxbourne,40
+E07000095,Bad health,3354,99007,3.39,Broxbourne,40
+E07000095,Very bad health,980,99007,0.99,Broxbourne,40
+E07000096,Very good health,80604,155081,51.98,Dacorum,40
+E07000096,Good health,51271,155081,33.06,Dacorum,40
+E07000096,Fair health,17171,155081,11.07,Dacorum,40
+E07000096,Bad health,4784,155081,3.08,Dacorum,40
+E07000096,Very bad health,1251,155081,0.81,Dacorum,40
+E07000098,Very good health,57652,107828,53.47,Hertsmere,41
+E07000098,Good health,34388,107828,31.89,Hertsmere,41
+E07000098,Fair health,11602,107828,10.76,Hertsmere,41
+E07000098,Bad health,3205,107828,2.97,Hertsmere,41
+E07000098,Very bad health,981,107828,0.91,Hertsmere,41
+E07000099,Very good health,67385,133210,50.59,North Hertfordshire,42
+E07000099,Good health,45317,133210,34.02,North Hertfordshire,42
+E07000099,Fair health,15363,133210,11.53,North Hertfordshire,42
+E07000099,Bad health,4089,133210,3.07,North Hertfordshire,42
+E07000099,Very bad health,1056,133210,0.79,North Hertfordshire,42
+E07000102,Very good health,50330,93771,53.67,Three Rivers,42
+E07000102,Good health,30357,93771,32.37,Three Rivers,42
+E07000102,Fair health,9788,93771,10.44,Three Rivers,42
+E07000102,Bad health,2586,93771,2.76,Three Rivers,42
+E07000102,Very bad health,710,93771,0.76,Three Rivers,42
+E07000103,Very good health,53559,102246,52.38,Watford,37
+E07000103,Good health,34277,102246,33.52,Watford,37
+E07000103,Fair health,10601,102246,10.37,Watford,37
+E07000103,Bad health,2955,102246,2.89,Watford,37
+E07000103,Very bad health,854,102246,0.84,Watford,37
+E07000105,Very good health,64334,132747,48.46,Ashford,41
+E07000105,Good health,45779,132747,34.49,Ashford,41
+E07000105,Fair health,16551,132747,12.47,Ashford,41
+E07000105,Bad health,4748,132747,3.58,Ashford,41
+E07000105,Very bad health,1335,132747,1.01,Ashford,41
+E07000106,Very good health,74034,157429,47.03,Canterbury,41
+E07000106,Good health,54597,157429,34.68,Canterbury,41
+E07000106,Fair health,20762,157429,13.19,Canterbury,41
+E07000106,Bad health,6224,157429,3.95,Canterbury,41
+E07000106,Very bad health,1812,157429,1.15,Canterbury,41
+E07000107,Very good health,61128,116753,52.36,Dartford,37
+E07000107,Good health,38680,116753,33.13,Dartford,37
+E07000107,Fair health,12556,116753,10.75,Dartford,37
+E07000107,Bad health,3390,116753,2.9,Dartford,37
+E07000107,Very bad health,999,116753,0.86,Dartford,37
+E07000108,Very good health,51455,116410,44.2,Dover,46
+E07000108,Good health,40711,116410,34.97,Dover,46
+E07000108,Fair health,17036,116410,14.63,Dover,46
+E07000108,Bad health,5611,116410,4.82,Dover,46
+E07000108,Very bad health,1597,116410,1.37,Dover,46
+E07000109,Very good health,52013,106900,48.66,Gravesham,39
+E07000109,Good health,36416,106900,34.07,Gravesham,39
+E07000109,Fair health,13291,106900,12.43,Gravesham,39
+E07000109,Bad health,4088,106900,3.82,Gravesham,39
+E07000109,Very bad health,1092,106900,1.02,Gravesham,39
+E07000110,Very good health,87494,175782,49.77,Maidstone,41
+E07000110,Good health,59781,175782,34.01,Maidstone,41
+E07000110,Fair health,21018,175782,11.96,Maidstone,41
+E07000110,Bad health,5832,175782,3.32,Maidstone,41
+E07000110,Very bad health,1657,175782,0.94,Maidstone,41
+E07000111,Very good health,63410,120515,52.62,Sevenoaks,44
+E07000111,Good health,38931,120515,32.3,Sevenoaks,44
+E07000111,Fair health,13407,120515,11.12,Sevenoaks,44
+E07000111,Bad health,3660,120515,3.04,Sevenoaks,44
+E07000111,Very bad health,1107,120515,0.92,Sevenoaks,44
+E07000112,Very good health,47404,109759,43.19,Folkestone and Hythe,47
+E07000112,Good health,38432,109759,35.01,Folkestone and Hythe,47
+E07000112,Fair health,16801,109759,15.31,Folkestone and Hythe,47
+E07000112,Bad health,5519,109759,5.03,Folkestone and Hythe,47
+E07000112,Very bad health,1603,109759,1.46,Folkestone and Hythe,47
+E07000113,Very good health,68967,151678,45.47,Swale,41
+E07000113,Good health,52738,151678,34.77,Swale,41
+E07000113,Fair health,21338,151678,14.07,Swale,41
+E07000113,Bad health,6688,151678,4.41,Swale,41
+E07000113,Very bad health,1947,151678,1.28,Swale,41
+E07000114,Very good health,59000,140587,41.97,Thanet,45
+E07000114,Good health,49262,140587,35.04,Thanet,45
+E07000114,Fair health,22148,140587,15.75,Thanet,45
+E07000114,Bad health,7823,140587,5.56,Thanet,45
+E07000114,Very bad health,2354,140587,1.67,Thanet,45
+E07000115,Very good health,67896,132201,51.36,Tonbridge and Malling,42
+E07000115,Good health,44052,132201,33.32,Tonbridge and Malling,42
+E07000115,Fair health,14959,132201,11.32,Tonbridge and Malling,42
+E07000115,Bad health,4164,132201,3.15,Tonbridge and Malling,42
+E07000115,Very bad health,1130,132201,0.85,Tonbridge and Malling,42
+E07000116,Very good health,60833,115311,52.76,Tunbridge Wells,43
+E07000116,Good health,37512,115311,32.53,Tunbridge Wells,43
+E07000116,Fair health,12586,115311,10.91,Tunbridge Wells,43
+E07000116,Bad health,3415,115311,2.96,Tunbridge Wells,43
+E07000116,Very bad health,965,115311,0.84,Tunbridge Wells,43
+E07000117,Very good health,42648,94645,45.06,Burnley,39
+E07000117,Good health,31570,94645,33.36,Burnley,39
+E07000117,Fair health,13808,94645,14.59,Burnley,39
+E07000117,Bad health,5073,94645,5.36,Burnley,39
+E07000117,Very bad health,1546,94645,1.63,Burnley,39
+E07000118,Very good health,57332,117732,48.7,Chorley,43
+E07000118,Good health,39109,117732,33.22,Chorley,43
+E07000118,Fair health,15198,117732,12.91,Chorley,43
+E07000118,Bad health,4735,117732,4.02,Chorley,43
+E07000118,Very bad health,1358,117732,1.15,Chorley,43
+E07000119,Very good health,37427,81374,45.99,Fylde,50
+E07000119,Good health,27421,81374,33.7,Fylde,50
+E07000119,Fair health,11815,81374,14.52,Fylde,50
+E07000119,Bad health,3641,81374,4.47,Fylde,50
+E07000119,Very bad health,1070,81374,1.31,Fylde,50
+E07000120,Very good health,36121,82234,43.92,Hyndburn,39
+E07000120,Good health,28210,82234,34.3,Hyndburn,39
+E07000120,Fair health,12149,82234,14.77,Hyndburn,39
+E07000120,Bad health,4387,82234,5.33,Hyndburn,39
+E07000120,Very bad health,1367,82234,1.66,Hyndburn,39
+E07000121,Very good health,66454,142934,46.49,Lancaster,41
+E07000121,Good health,48857,142934,34.18,Lancaster,41
+E07000121,Fair health,19619,142934,13.73,Lancaster,41
+E07000121,Bad health,6214,142934,4.35,Lancaster,41
+E07000121,Very bad health,1790,142934,1.25,Lancaster,41
+E07000122,Very good health,44752,95760,46.73,Pendle,39
+E07000122,Good health,32255,95760,33.68,Pendle,39
+E07000122,Fair health,13182,95760,13.77,Pendle,39
+E07000122,Bad health,4286,95760,4.48,Pendle,39
+E07000122,Very bad health,1285,95760,1.34,Pendle,39
+E07000123,Very good health,71585,147835,48.42,Preston,36
+E07000123,Good health,48918,147835,33.09,Preston,36
+E07000123,Fair health,19091,147835,12.91,Preston,36
+E07000123,Bad health,6379,147835,4.31,Preston,36
+E07000123,Very bad health,1862,147835,1.26,Preston,36
+E07000124,Very good health,32360,61561,52.57,Ribble Valley,48
+E07000124,Good health,19764,61561,32.1,Ribble Valley,48
+E07000124,Fair health,7117,61561,11.56,Ribble Valley,48
+E07000124,Bad health,1855,61561,3.01,Ribble Valley,48
+E07000124,Very bad health,465,61561,0.76,Ribble Valley,48
+E07000125,Very good health,33310,70873,47.0,Rossendale,42
+E07000125,Good health,23556,70873,33.24,Rossendale,42
+E07000125,Fair health,9673,70873,13.65,Rossendale,42
+E07000125,Bad health,3430,70873,4.84,Rossendale,42
+E07000125,Very bad health,904,70873,1.28,Rossendale,42
+E07000126,Very good health,53172,111035,47.89,South Ribble,44
+E07000126,Good health,37823,111035,34.06,South Ribble,44
+E07000126,Fair health,14535,111035,13.09,South Ribble,44
+E07000126,Bad health,4318,111035,3.89,South Ribble,44
+E07000126,Very bad health,1187,111035,1.07,South Ribble,44
+E07000127,Very good health,56460,117430,48.08,West Lancashire,44
+E07000127,Good health,38918,117430,33.14,West Lancashire,44
+E07000127,Fair health,15404,117430,13.12,West Lancashire,44
+E07000127,Bad health,5114,117430,4.35,West Lancashire,44
+E07000127,Very bad health,1534,117430,1.31,West Lancashire,44
+E07000128,Very good health,49623,111946,44.33,Wyre,50
+E07000128,Good health,37251,111946,33.28,Wyre,50
+E07000128,Fair health,17326,111946,15.48,Wyre,50
+E07000128,Bad health,5902,111946,5.27,Wyre,50
+E07000128,Very bad health,1844,111946,1.65,Wyre,50
+E07000129,Very good health,50473,102926,49.04,Blaby,42
+E07000129,Good health,35496,102926,34.49,Blaby,42
+E07000129,Fair health,12636,102926,12.28,Blaby,42
+E07000129,Bad health,3328,102926,3.23,Blaby,42
+E07000129,Very bad health,993,102926,0.96,Blaby,42
+E07000130,Very good health,90255,183971,49.06,Charnwood,39
+E07000130,Good health,63617,183971,34.58,Charnwood,39
+E07000130,Fair health,22344,183971,12.15,Charnwood,39
+E07000130,Bad health,6051,183971,3.29,Charnwood,39
+E07000130,Very bad health,1704,183971,0.93,Charnwood,39
+E07000131,Very good health,50282,97627,51.5,Harborough,45
+E07000131,Good health,32717,97627,33.51,Harborough,45
+E07000131,Fair health,11016,97627,11.28,Harborough,45
+E07000131,Bad health,2850,97627,2.92,Harborough,45
+E07000131,Very bad health,762,97627,0.78,Harborough,45
+E07000132,Very good health,52913,113640,46.56,Hinckley and Bosworth,45
+E07000132,Good health,40394,113640,35.55,Hinckley and Bosworth,45
+E07000132,Fair health,14967,113640,13.17,Hinckley and Bosworth,45
+E07000132,Bad health,4164,113640,3.66,Hinckley and Bosworth,45
+E07000132,Very bad health,1202,113640,1.06,Hinckley and Bosworth,45
+E07000133,Very good health,24748,51752,47.82,Melton,47
+E07000133,Good health,18186,51752,35.14,Melton,47
+E07000133,Fair health,6757,51752,13.06,Melton,47
+E07000133,Bad health,1622,51752,3.13,Melton,47
+E07000133,Very bad health,439,51752,0.85,Melton,47
+E07000134,Very good health,49180,104706,46.97,North West Leicestershire,43
+E07000134,Good health,36846,104706,35.19,North West Leicestershire,43
+E07000134,Fair health,13648,104706,13.03,North West Leicestershire,43
+E07000134,Bad health,3916,104706,3.74,North West Leicestershire,43
+E07000134,Very bad health,1116,104706,1.07,North West Leicestershire,43
+E07000135,Very good health,26568,57747,46.01,Oadby and Wigston,42
+E07000135,Good health,20744,57747,35.92,Oadby and Wigston,42
+E07000135,Fair health,7661,57747,13.27,Oadby and Wigston,42
+E07000135,Bad health,2170,57747,3.76,Oadby and Wigston,42
+E07000135,Very bad health,604,57747,1.05,Oadby and Wigston,42
+E07000136,Very good health,29747,70502,42.19,Boston,42
+E07000136,Good health,26118,70502,37.05,Boston,42
+E07000136,Fair health,10548,70502,14.96,Boston,42
+E07000136,Bad health,3193,70502,4.53,Boston,42
+E07000136,Very bad health,896,70502,1.27,Boston,42
+E07000137,Very good health,53934,142296,37.9,East Lindsey,52
+E07000137,Good health,50793,142296,35.7,East Lindsey,52
+E07000137,Fair health,25949,142296,18.24,East Lindsey,52
+E07000137,Bad health,8969,142296,6.3,East Lindsey,52
+E07000137,Very bad health,2651,142296,1.86,East Lindsey,52
+E07000138,Very good health,45492,103813,43.82,Lincoln,34
+E07000138,Good health,38213,103813,36.81,Lincoln,34
+E07000138,Fair health,14444,103813,13.91,Lincoln,34
+E07000138,Bad health,4461,103813,4.3,Lincoln,34
+E07000138,Very bad health,1203,103813,1.16,Lincoln,34
+E07000139,Very good health,54648,118074,46.28,North Kesteven,46
+E07000139,Good health,41825,118074,35.42,North Kesteven,46
+E07000139,Fair health,15872,118074,13.44,North Kesteven,46
+E07000139,Bad health,4509,118074,3.82,North Kesteven,46
+E07000139,Very bad health,1220,118074,1.03,North Kesteven,46
+E07000140,Very good health,39386,95122,41.41,South Holland,46
+E07000140,Good health,35883,95122,37.72,South Holland,46
+E07000140,Fair health,14451,95122,15.19,South Holland,46
+E07000140,Bad health,4268,95122,4.49,South Holland,46
+E07000140,Very bad health,1134,95122,1.19,South Holland,46
+E07000141,Very good health,65973,143404,46.0,South Kesteven,46
+E07000141,Good health,51176,143404,35.69,South Kesteven,46
+E07000141,Fair health,19418,143404,13.54,South Kesteven,46
+E07000141,Bad health,5456,143404,3.8,South Kesteven,46
+E07000141,Very bad health,1381,143404,0.96,South Kesteven,46
+E07000142,Very good health,41693,95153,43.82,West Lindsey,48
+E07000142,Good health,34181,95153,35.92,West Lindsey,48
+E07000142,Fair health,13948,95153,14.66,West Lindsey,48
+E07000142,Bad health,4227,95153,4.44,West Lindsey,48
+E07000142,Very bad health,1104,95153,1.16,West Lindsey,48
+E07000143,Very good health,60208,141477,42.56,Breckland,46
+E07000143,Good health,52416,141477,37.05,Breckland,46
+E07000143,Fair health,21131,141477,14.94,Breckland,46
+E07000143,Bad health,6109,141477,4.32,Breckland,46
+E07000143,Very bad health,1613,141477,1.14,Breckland,46
+E07000144,Very good health,59373,131721,45.07,Broadland,48
+E07000144,Good health,47997,131721,36.44,Broadland,48
+E07000144,Fair health,18304,131721,13.9,Broadland,48
+E07000144,Bad health,4810,131721,3.65,Broadland,48
+E07000144,Very bad health,1237,131721,0.94,Broadland,48
+E07000145,Very good health,40086,99748,40.19,Great Yarmouth,46
+E07000145,Good health,35834,99748,35.92,Great Yarmouth,46
+E07000145,Fair health,16599,99748,16.64,Great Yarmouth,46
+E07000145,Bad health,5610,99748,5.62,Great Yarmouth,46
+E07000145,Very bad health,1619,99748,1.62,Great Yarmouth,46
+E07000146,Very good health,64413,154325,41.74,King's Lynn and West Norfolk,47
+E07000146,Good health,56961,154325,36.91,King's Lynn and West Norfolk,47
+E07000146,Fair health,23789,154325,15.41,King's Lynn and West Norfolk,47
+E07000146,Bad health,7106,154325,4.6,King's Lynn and West Norfolk,47
+E07000146,Very bad health,2056,154325,1.33,King's Lynn and West Norfolk,47
+E07000147,Very good health,40520,102981,39.35,North Norfolk,54
+E07000147,Good health,38727,102981,37.61,North Norfolk,54
+E07000147,Fair health,17522,102981,17.01,North Norfolk,54
+E07000147,Bad health,4821,102981,4.68,North Norfolk,54
+E07000147,Very bad health,1391,102981,1.35,North Norfolk,54
+E07000148,Very good health,63232,143921,43.94,Norwich,35
+E07000148,Good health,52223,143921,36.29,Norwich,35
+E07000148,Fair health,20346,143921,14.14,Norwich,35
+E07000148,Bad health,6382,143921,4.43,Norwich,35
+E07000148,Very bad health,1738,143921,1.21,Norwich,35
+E07000149,Very good health,66743,141948,47.02,South Norfolk,46
+E07000149,Good health,50340,141948,35.46,South Norfolk,46
+E07000149,Fair health,18701,141948,13.17,South Norfolk,46
+E07000149,Bad health,4877,141948,3.44,South Norfolk,46
+E07000149,Very bad health,1287,141948,0.91,South Norfolk,46
+E07000170,Very good health,53556,126300,42.4,Ashfield,42
+E07000170,Good health,43876,126300,34.74,Ashfield,42
+E07000170,Fair health,19912,126300,15.77,Ashfield,42
+E07000170,Bad health,6947,126300,5.5,Ashfield,42
+E07000170,Very bad health,2009,126300,1.59,Ashfield,42
+E07000171,Very good health,51679,117804,43.87,Bassetlaw,45
+E07000171,Good health,40938,117804,34.75,Bassetlaw,45
+E07000171,Fair health,17862,117804,15.16,Bassetlaw,45
+E07000171,Bad health,5618,117804,4.77,Bassetlaw,45
+E07000171,Very bad health,1707,117804,1.45,Bassetlaw,45
+E07000172,Very good health,51331,110940,46.27,Broxtowe,43
+E07000172,Good health,38407,110940,34.62,Broxtowe,43
+E07000172,Fair health,15476,110940,13.95,Broxtowe,43
+E07000172,Bad health,4462,110940,4.02,Broxtowe,43
+E07000172,Very bad health,1264,110940,1.14,Broxtowe,43
+E07000173,Very good health,53976,117263,46.03,Gedling,44
+E07000173,Good health,40850,117263,34.84,Gedling,44
+E07000173,Fair health,16183,117263,13.8,Gedling,44
+E07000173,Bad health,4840,117263,4.13,Gedling,44
+E07000173,Very bad health,1414,117263,1.21,Gedling,44
+E07000174,Very good health,47123,110482,42.65,Mansfield,41
+E07000174,Good health,38004,110482,34.4,Mansfield,41
+E07000174,Fair health,17302,110482,15.66,Mansfield,41
+E07000174,Bad health,6249,110482,5.66,Mansfield,41
+E07000174,Very bad health,1804,110482,1.63,Mansfield,41
+E07000175,Very good health,54954,122956,44.69,Newark and Sherwood,45
+E07000175,Good health,43072,122956,35.03,Newark and Sherwood,45
+E07000175,Fair health,17806,122956,14.48,Newark and Sherwood,45
+E07000175,Bad health,5553,122956,4.52,Newark and Sherwood,45
+E07000175,Very bad health,1571,122956,1.28,Newark and Sherwood,45
+E07000176,Very good health,63235,119077,53.1,Rushcliffe,44
+E07000176,Good health,38139,119077,32.03,Rushcliffe,44
+E07000176,Fair health,13096,119077,11.0,Rushcliffe,44
+E07000176,Bad health,3629,119077,3.05,Rushcliffe,44
+E07000176,Very bad health,978,119077,0.82,Rushcliffe,44
+E07000177,Very good health,81759,161018,50.78,Cherwell,40
+E07000177,Good health,55298,161018,34.34,Cherwell,40
+E07000177,Fair health,17966,161018,11.16,Cherwell,40
+E07000177,Bad health,4699,161018,2.92,Cherwell,40
+E07000177,Very bad health,1296,161018,0.8,Cherwell,40
+E07000178,Very good health,88767,162039,54.78,Oxford,31
+E07000178,Good health,52154,162039,32.19,Oxford,31
+E07000178,Fair health,15703,162039,9.69,Oxford,31
+E07000178,Bad health,4221,162039,2.6,Oxford,31
+E07000178,Very bad health,1194,162039,0.74,Oxford,31
+E07000179,Very good health,79641,149085,53.42,South Oxfordshire,43
+E07000179,Good health,49194,149085,33.0,South Oxfordshire,43
+E07000179,Fair health,15408,149085,10.34,South Oxfordshire,43
+E07000179,Bad health,3831,149085,2.57,South Oxfordshire,43
+E07000179,Very bad health,1011,149085,0.68,South Oxfordshire,43
+E07000180,Very good health,72726,138913,52.35,Vale of White Horse,41
+E07000180,Good health,46700,138913,33.62,Vale of White Horse,41
+E07000180,Fair health,14989,138913,10.79,Vale of White Horse,41
+E07000180,Bad health,3585,138913,2.58,Vale of White Horse,41
+E07000180,Very bad health,913,138913,0.66,Vale of White Horse,41
+E07000181,Very good health,58560,114237,51.26,West Oxfordshire,44
+E07000181,Good health,38834,114237,33.99,West Oxfordshire,44
+E07000181,Fair health,12766,114237,11.18,West Oxfordshire,44
+E07000181,Bad health,3198,114237,2.8,West Oxfordshire,44
+E07000181,Very bad health,879,114237,0.77,West Oxfordshire,44
+E07000192,Very good health,43559,100520,43.33,Cannock Chase,42
+E07000192,Good health,35779,100520,35.59,Cannock Chase,42
+E07000192,Fair health,14742,100520,14.67,Cannock Chase,42
+E07000192,Bad health,4955,100520,4.93,Cannock Chase,42
+E07000192,Very bad health,1485,100520,1.48,Cannock Chase,42
+E07000193,Very good health,57717,124019,46.54,East Staffordshire,41
+E07000193,Good health,43989,124019,35.47,East Staffordshire,41
+E07000193,Fair health,16319,124019,13.16,East Staffordshire,41
+E07000193,Bad health,4637,124019,3.74,East Staffordshire,41
+E07000193,Very bad health,1357,124019,1.09,East Staffordshire,41
+E07000194,Very good health,50143,106436,47.11,Lichfield,46
+E07000194,Good health,37056,106436,34.82,Lichfield,46
+E07000194,Fair health,13924,106436,13.08,Lichfield,46
+E07000194,Bad health,4162,106436,3.91,Lichfield,46
+E07000194,Very bad health,1151,106436,1.08,Lichfield,46
+E07000195,Very good health,54189,123300,43.95,Newcastle-under-Lyme,43
+E07000195,Good health,43520,123300,35.3,Newcastle-under-Lyme,43
+E07000195,Fair health,17878,123300,14.5,Newcastle-under-Lyme,43
+E07000195,Bad health,5972,123300,4.84,Newcastle-under-Lyme,43
+E07000195,Very bad health,1741,123300,1.41,Newcastle-under-Lyme,43
+E07000196,Very good health,49718,110472,45.01,South Staffordshire,48
+E07000196,Good health,39468,110472,35.73,South Staffordshire,48
+E07000196,Fair health,15421,110472,13.96,South Staffordshire,48
+E07000196,Bad health,4538,110472,4.11,South Staffordshire,48
+E07000196,Very bad health,1327,110472,1.2,South Staffordshire,48
+E07000197,Very good health,64032,136867,46.78,Stafford,45
+E07000197,Good health,47929,136867,35.02,Stafford,45
+E07000197,Fair health,18200,136867,13.3,Stafford,45
+E07000197,Bad health,5203,136867,3.8,Stafford,45
+E07000197,Very bad health,1503,136867,1.1,Stafford,45
+E07000198,Very good health,42805,95847,44.66,Staffordshire Moorlands,49
+E07000198,Good health,33976,95847,35.45,Staffordshire Moorlands,49
+E07000198,Fair health,13660,95847,14.25,Staffordshire Moorlands,49
+E07000198,Bad health,4144,95847,4.32,Staffordshire Moorlands,49
+E07000198,Very bad health,1262,95847,1.32,Staffordshire Moorlands,49
+E07000199,Very good health,35798,78647,45.52,Tamworth,41
+E07000199,Good health,27433,78647,34.88,Tamworth,41
+E07000199,Fair health,10922,78647,13.89,Tamworth,41
+E07000199,Bad health,3434,78647,4.37,Tamworth,41
+E07000199,Very bad health,1060,78647,1.35,Tamworth,41
+E07000200,Very good health,42772,92338,46.32,Babergh,49
+E07000200,Good health,33135,92338,35.88,Babergh,49
+E07000200,Fair health,12352,92338,13.38,Babergh,49
+E07000200,Bad health,3225,92338,3.49,Babergh,49
+E07000200,Very bad health,854,92338,0.92,Babergh,49
+E07000202,Very good health,63728,139642,45.64,Ipswich,38
+E07000202,Good health,49957,139642,35.78,Ipswich,38
+E07000202,Fair health,18905,139642,13.54,Ipswich,38
+E07000202,Bad health,5562,139642,3.98,Ipswich,38
+E07000202,Very bad health,1490,139642,1.07,Ipswich,38
+E07000203,Very good health,48205,102699,46.94,Mid Suffolk,48
+E07000203,Good health,36960,102699,35.99,Mid Suffolk,48
+E07000203,Fair health,13204,102699,12.86,Mid Suffolk,48
+E07000203,Bad health,3454,102699,3.36,Mid Suffolk,48
+E07000203,Very bad health,876,102699,0.85,Mid Suffolk,48
+E07000207,Very good health,81741,138755,58.91,Elmbridge,42
+E07000207,Good health,40971,138755,29.53,Elmbridge,42
+E07000207,Fair health,12067,138755,8.7,Elmbridge,42
+E07000207,Bad health,3038,138755,2.19,Elmbridge,42
+E07000207,Very bad health,938,138755,0.68,Elmbridge,42
+E07000208,Very good health,43925,80938,54.27,Epsom and Ewell,41
+E07000208,Good health,26427,80938,32.65,Epsom and Ewell,41
+E07000208,Fair health,8110,80938,10.02,Epsom and Ewell,41
+E07000208,Bad health,1940,80938,2.4,Epsom and Ewell,41
+E07000208,Very bad health,536,80938,0.66,Epsom and Ewell,41
+E07000209,Very good health,78671,143650,54.77,Guildford,39
+E07000209,Good health,46690,143650,32.5,Guildford,39
+E07000209,Fair health,13717,143650,9.55,Guildford,39
+E07000209,Bad health,3531,143650,2.46,Guildford,39
+E07000209,Very bad health,1041,143650,0.72,Guildford,39
+E07000210,Very good health,45952,87386,52.59,Mole Valley,47
+E07000210,Good health,28806,87386,32.96,Mole Valley,47
+E07000210,Fair health,9411,87386,10.77,Mole Valley,47
+E07000210,Bad health,2501,87386,2.86,Mole Valley,47
+E07000210,Very bad health,716,87386,0.82,Mole Valley,47
+E07000211,Very good health,81155,150846,53.8,Reigate and Banstead,41
+E07000211,Good health,49031,150846,32.5,Reigate and Banstead,41
+E07000211,Fair health,15541,150846,10.3,Reigate and Banstead,41
+E07000211,Bad health,3979,150846,2.64,Reigate and Banstead,41
+E07000211,Very bad health,1140,150846,0.76,Reigate and Banstead,41
+E07000212,Very good health,46128,88079,52.37,Runnymede,39
+E07000212,Good health,29446,88079,33.43,Runnymede,39
+E07000212,Fair health,9344,88079,10.61,Runnymede,39
+E07000212,Bad health,2487,88079,2.82,Runnymede,39
+E07000212,Very bad health,674,88079,0.77,Runnymede,39
+E07000213,Very good health,51913,102956,50.42,Spelthorne,41
+E07000213,Good health,35432,102956,34.41,Spelthorne,41
+E07000213,Fair health,11642,102956,11.31,Spelthorne,41
+E07000213,Bad health,3072,102956,2.98,Spelthorne,41
+E07000213,Very bad health,897,102956,0.87,Spelthorne,41
+E07000214,Very good health,48670,90453,53.81,Surrey Heath,43
+E07000214,Good health,29656,90453,32.79,Surrey Heath,43
+E07000214,Fair health,9208,90453,10.18,Surrey Heath,43
+E07000214,Bad health,2249,90453,2.49,Surrey Heath,43
+E07000214,Very bad health,670,90453,0.74,Surrey Heath,43
+E07000215,Very good health,45917,87877,52.25,Tandridge,43
+E07000215,Good health,28955,87877,32.95,Tandridge,43
+E07000215,Fair health,9685,87877,11.02,Tandridge,43
+E07000215,Bad health,2570,87877,2.92,Tandridge,43
+E07000215,Very bad health,750,87877,0.85,Tandridge,43
+E07000216,Very good health,70073,128229,54.65,Waverley,44
+E07000216,Good health,41167,128229,32.1,Waverley,44
+E07000216,Fair health,12883,128229,10.05,Waverley,44
+E07000216,Bad health,3236,128229,2.52,Waverley,44
+E07000216,Very bad health,870,128229,0.68,Waverley,44
+E07000217,Very good health,55399,103942,53.3,Woking,40
+E07000217,Good health,34440,103942,33.13,Woking,40
+E07000217,Fair health,10559,103942,10.16,Woking,40
+E07000217,Bad health,2776,103942,2.67,Woking,40
+E07000217,Very bad health,768,103942,0.74,Woking,40
+E07000218,Very good health,29587,65034,45.49,North Warwickshire,45
+E07000218,Good health,22596,65034,34.74,North Warwickshire,45
+E07000218,Fair health,9157,65034,14.08,North Warwickshire,45
+E07000218,Bad health,2864,65034,4.4,North Warwickshire,45
+E07000218,Very bad health,830,65034,1.28,North Warwickshire,45
+E07000219,Very good health,59458,134197,44.31,Nuneaton and Bedworth,41
+E07000219,Good health,47478,134197,35.38,Nuneaton and Bedworth,41
+E07000219,Fair health,19379,134197,14.44,Nuneaton and Bedworth,41
+E07000219,Bad health,6075,134197,4.53,Nuneaton and Bedworth,41
+E07000219,Very bad health,1807,134197,1.35,Nuneaton and Bedworth,41
+E07000220,Very good health,55844,114363,48.83,Rugby,40
+E07000220,Good health,39851,114363,34.85,Rugby,40
+E07000220,Fair health,13777,114363,12.05,Rugby,40
+E07000220,Bad health,3887,114363,3.4,Rugby,40
+E07000220,Very bad health,1004,114363,0.88,Rugby,40
+E07000221,Very good health,66877,134725,49.64,Stratford-on-Avon,48
+E07000221,Good health,46177,134725,34.28,Stratford-on-Avon,48
+E07000221,Fair health,16193,134725,12.02,Stratford-on-Avon,48
+E07000221,Bad health,4275,134725,3.17,Stratford-on-Avon,48
+E07000221,Very bad health,1203,134725,0.89,Stratford-on-Avon,48
+E07000222,Very good health,77332,148453,52.09,Warwick,40
+E07000222,Good health,49195,148453,33.14,Warwick,40
+E07000222,Fair health,16306,148453,10.98,Warwick,40
+E07000222,Bad health,4393,148453,2.96,Warwick,40
+E07000222,Very bad health,1227,148453,0.83,Warwick,40
+E07000223,Very good health,29272,64544,45.35,Adur,45
+E07000223,Good health,22573,64544,34.97,Adur,45
+E07000223,Fair health,9108,64544,14.11,Adur,45
+E07000223,Bad health,2800,64544,4.34,Adur,45
+E07000223,Very bad health,791,64544,1.23,Adur,45
+E07000224,Very good health,71215,164889,43.19,Arun,49
+E07000224,Good health,60303,164889,36.57,Arun,49
+E07000224,Fair health,24419,164889,14.81,Arun,49
+E07000224,Bad health,7110,164889,4.31,Arun,49
+E07000224,Very bad health,1842,164889,1.12,Arun,49
+E07000225,Very good health,60839,124068,49.04,Chichester,49
+E07000225,Good health,42522,124068,34.27,Chichester,49
+E07000225,Fair health,15366,124068,12.39,Chichester,49
+E07000225,Bad health,4178,124068,3.37,Chichester,49
+E07000225,Very bad health,1163,124068,0.94,Chichester,49
+E07000226,Very good health,58152,118493,49.08,Crawley,37
+E07000226,Good health,41451,118493,34.98,Crawley,37
+E07000226,Fair health,13754,118493,11.61,Crawley,37
+E07000226,Bad health,3975,118493,3.35,Crawley,37
+E07000226,Very bad health,1161,118493,0.98,Crawley,37
+E07000227,Very good health,75551,146778,51.47,Horsham,45
+E07000227,Good health,49827,146778,33.95,Horsham,45
+E07000227,Fair health,16218,146778,11.05,Horsham,45
+E07000227,Bad health,4067,146778,2.77,Horsham,45
+E07000227,Very bad health,1115,146778,0.76,Horsham,45
+E07000228,Very good health,80741,152566,52.92,Mid Sussex,43
+E07000228,Good health,50460,152566,33.07,Mid Sussex,43
+E07000228,Fair health,16029,152566,10.51,Mid Sussex,43
+E07000228,Bad health,4180,152566,2.74,Mid Sussex,43
+E07000228,Very bad health,1156,152566,0.76,Mid Sussex,43
+E07000229,Very good health,50406,111340,45.27,Worthing,44
+E07000229,Good health,39682,111340,35.64,Worthing,44
+E07000229,Fair health,15418,111340,13.85,Worthing,44
+E07000229,Bad health,4526,111340,4.07,Worthing,44
+E07000229,Very bad health,1308,111340,1.17,Worthing,44
+E07000234,Very good health,50253,99183,50.67,Bromsgrove,45
+E07000234,Good health,32850,99183,33.12,Bromsgrove,45
+E07000234,Fair health,11705,99183,11.8,Bromsgrove,45
+E07000234,Bad health,3329,99183,3.36,Bromsgrove,45
+E07000234,Very bad health,1046,99183,1.05,Bromsgrove,45
+E07000235,Very good health,36926,79486,46.46,Malvern Hills,50
+E07000235,Good health,27733,79486,34.89,Malvern Hills,50
+E07000235,Fair health,10843,79486,13.64,Malvern Hills,50
+E07000235,Bad health,3096,79486,3.9,Malvern Hills,50
+E07000235,Very bad health,888,79486,1.12,Malvern Hills,50
+E07000236,Very good health,40480,87038,46.51,Redditch,40
+E07000236,Good health,30616,87038,35.18,Redditch,40
+E07000236,Fair health,11431,87038,13.13,Redditch,40
+E07000236,Bad health,3547,87038,4.08,Redditch,40
+E07000236,Very bad health,964,87038,1.11,Redditch,40
+E07000237,Very good health,49220,103872,47.39,Worcester,39
+E07000237,Good health,36463,103872,35.1,Worcester,39
+E07000237,Fair health,13209,103872,12.72,Worcester,39
+E07000237,Bad health,3882,103872,3.74,Worcester,39
+E07000237,Very bad health,1098,103872,1.06,Worcester,39
+E07000238,Very good health,62836,132492,47.43,Wychavon,47
+E07000238,Good health,46380,132492,35.01,Wychavon,47
+E07000238,Fair health,17163,132492,12.95,Wychavon,47
+E07000238,Bad health,4829,132492,3.64,Wychavon,47
+E07000238,Very bad health,1284,132492,0.97,Wychavon,47
+E07000239,Very good health,44004,101607,43.31,Wyre Forest,47
+E07000239,Good health,36337,101607,35.76,Wyre Forest,47
+E07000239,Fair health,15024,101607,14.79,Wyre Forest,47
+E07000239,Bad health,4818,101607,4.74,Wyre Forest,47
+E07000239,Very bad health,1424,101607,1.4,Wyre Forest,47
+E07000240,Very good health,85242,148167,57.53,St Albans,41
+E07000240,Good health,44893,148167,30.3,St Albans,41
+E07000240,Fair health,13557,148167,9.15,St Albans,41
+E07000240,Bad health,3520,148167,2.38,St Albans,41
+E07000240,Very bad health,955,148167,0.64,St Albans,41
+E07000241,Very good health,61896,119836,51.65,Welwyn Hatfield,37
+E07000241,Good health,40200,119836,33.55,Welwyn Hatfield,37
+E07000241,Fair health,13130,119836,10.96,Welwyn Hatfield,37
+E07000241,Bad health,3664,119836,3.06,Welwyn Hatfield,37
+E07000241,Very bad health,946,119836,0.79,Welwyn Hatfield,37
+E07000242,Very good health,81057,150155,53.98,East Hertfordshire,42
+E07000242,Good health,48853,150155,32.54,East Hertfordshire,42
+E07000242,Fair health,15274,150155,10.17,East Hertfordshire,42
+E07000242,Bad health,3916,150155,2.61,East Hertfordshire,42
+E07000242,Very bad health,1055,150155,0.7,East Hertfordshire,42
+E07000243,Very good health,42673,89495,47.68,Stevenage,38
+E07000243,Good health,31339,89495,35.02,Stevenage,38
+E07000243,Fair health,11298,89495,12.62,Stevenage,38
+E07000243,Bad health,3298,89495,3.69,Stevenage,38
+E07000243,Very bad health,887,89495,0.99,Stevenage,38
+E07000244,Very good health,106604,246056,43.33,East Suffolk,49
+E07000244,Good health,88502,246056,35.97,East Suffolk,49
+E07000244,Fair health,36851,246056,14.98,East Suffolk,49
+E07000244,Bad health,11148,246056,4.53,East Suffolk,49
+E07000244,Very bad health,2951,246056,1.2,East Suffolk,49
+E07000245,Very good health,85843,179948,47.7,West Suffolk,41
+E07000245,Good health,63799,179948,35.45,West Suffolk,41
+E07000245,Fair health,22468,179948,12.49,West Suffolk,41
+E07000245,Bad health,6150,179948,3.42,West Suffolk,41
+E07000245,Very bad health,1688,179948,0.94,West Suffolk,41
+E08000001,Very good health,142076,295963,48.0,Bolton,38
+E08000001,Good health,96785,295963,32.7,Bolton,38
+E08000001,Fair health,38905,295963,13.15,Bolton,38
+E08000001,Bad health,13968,295963,4.72,Bolton,38
+E08000001,Very bad health,4229,295963,1.43,Bolton,38
+E08000002,Very good health,93456,193850,48.21,Bury,40
+E08000002,Good health,63919,193850,32.97,Bury,40
+E08000002,Fair health,25700,193850,13.26,Bury,40
+E08000002,Bad health,8416,193850,4.34,Bury,40
+E08000002,Very bad health,2359,193850,1.22,Bury,40
+E08000003,Very good health,280547,551938,50.83,Manchester,31
+E08000003,Good health,173458,551938,31.43,Manchester,31
+E08000003,Fair health,64955,551938,11.77,Manchester,31
+E08000003,Bad health,24915,551938,4.51,Manchester,31
+E08000003,Very bad health,8063,551938,1.46,Manchester,31
+E08000004,Very good health,113590,242088,46.92,Oldham,37
+E08000004,Good health,79548,242088,32.86,Oldham,37
+E08000004,Fair health,33754,242088,13.94,Oldham,37
+E08000004,Bad health,11724,242088,4.84,Oldham,37
+E08000004,Very bad health,3472,242088,1.43,Oldham,37
+E08000005,Very good health,104957,223773,46.9,Rochdale,38
+E08000005,Good health,73713,223773,32.94,Rochdale,38
+E08000005,Fair health,30753,223773,13.74,Rochdale,38
+E08000005,Bad health,11214,223773,5.01,Rochdale,38
+E08000005,Very bad health,3136,223773,1.4,Rochdale,38
+E08000006,Very good health,134447,269923,49.81,Salford,34
+E08000006,Good health,86140,269923,31.91,Salford,34
+E08000006,Fair health,33249,269923,12.32,Salford,34
+E08000006,Bad health,12406,269923,4.6,Salford,34
+E08000006,Very bad health,3681,269923,1.36,Salford,34
+E08000007,Very good health,145602,294773,49.39,Stockport,42
+E08000007,Good health,96317,294773,32.67,Stockport,42
+E08000007,Fair health,37255,294773,12.64,Stockport,42
+E08000007,Bad health,12017,294773,4.08,Stockport,42
+E08000007,Very bad health,3582,294773,1.22,Stockport,42
+E08000008,Very good health,104704,231071,45.31,Tameside,40
+E08000008,Good health,77895,231071,33.71,Tameside,40
+E08000008,Fair health,33204,231071,14.37,Tameside,40
+E08000008,Bad health,11821,231071,5.12,Tameside,40
+E08000008,Very bad health,3447,231071,1.49,Tameside,40
+E08000009,Very good health,124806,235052,53.1,Trafford,40
+E08000009,Good health,72803,235052,30.97,Trafford,40
+E08000009,Fair health,26515,235052,11.28,Trafford,40
+E08000009,Bad health,8406,235052,3.58,Trafford,40
+E08000009,Very bad health,2522,235052,1.07,Trafford,40
+E08000010,Very good health,152373,329331,46.27,Wigan,41
+E08000010,Good health,110193,329331,33.46,Wigan,41
+E08000010,Fair health,46214,329331,14.03,Wigan,41
+E08000010,Bad health,16085,329331,4.88,Wigan,41
+E08000010,Very bad health,4466,329331,1.36,Wigan,41
+E08000011,Very good health,73079,154519,47.29,Knowsley,39
+E08000011,Good health,46569,154519,30.14,Knowsley,39
+E08000011,Fair health,21561,154519,13.95,Knowsley,39
+E08000011,Bad health,10037,154519,6.5,Knowsley,39
+E08000011,Very bad health,3273,154519,2.12,Knowsley,39
+E08000012,Very good health,231830,486088,47.69,Liverpool,36
+E08000012,Good health,150332,486088,30.93,Liverpool,36
+E08000012,Fair health,65142,486088,13.4,Liverpool,36
+E08000012,Bad health,29077,486088,5.98,Liverpool,36
+E08000012,Very bad health,9707,486088,2.0,Liverpool,36
+E08000013,Very good health,82747,183245,45.16,St. Helens,43
+E08000013,Good health,59974,183245,32.73,St. Helens,43
+E08000013,Fair health,26762,183245,14.6,St. Helens,43
+E08000013,Bad health,10591,183245,5.78,St. Helens,43
+E08000013,Very bad health,3171,183245,1.73,St. Helens,43
+E08000014,Very good health,129449,279233,46.36,Sefton,46
+E08000014,Good health,90164,279233,32.29,Sefton,46
+E08000014,Fair health,40057,279233,14.35,Sefton,46
+E08000014,Bad health,14953,279233,5.36,Sefton,46
+E08000014,Very bad health,4610,279233,1.65,Sefton,46
+E08000015,Very good health,148845,320199,46.49,Wirral,44
+E08000015,Good health,102703,320199,32.07,Wirral,44
+E08000015,Fair health,45385,320199,14.17,Wirral,44
+E08000015,Bad health,17840,320199,5.57,Wirral,44
+E08000015,Very bad health,5426,320199,1.69,Wirral,44
+E08000016,Very good health,106010,244572,43.35,Barnsley (obsolete),42
+E08000016,Good health,82192,244572,33.61,Barnsley (obsolete),42
+E08000016,Fair health,38001,244572,15.54,Barnsley (obsolete),42
+E08000016,Bad health,14252,244572,5.83,Barnsley (obsolete),42
+E08000016,Very bad health,4117,244572,1.68,Barnsley (obsolete),42
+E08000017,Very good health,136540,308104,44.32,Doncaster,41
+E08000017,Good health,105090,308104,34.11,Doncaster,41
+E08000017,Fair health,45337,308104,14.71,Doncaster,41
+E08000017,Bad health,16192,308104,5.26,Doncaster,41
+E08000017,Very bad health,4945,308104,1.6,Doncaster,41
+E08000018,Very good health,117359,265807,44.15,Rotherham,41
+E08000018,Good health,90450,265807,34.03,Rotherham,41
+E08000018,Fair health,39277,265807,14.78,Rotherham,41
+E08000018,Bad health,14400,265807,5.42,Rotherham,41
+E08000018,Very bad health,4321,265807,1.63,Rotherham,41
+E08000019,Very good health,259654,556522,46.66,Sheffield (obsolete),37
+E08000019,Good health,187759,556522,33.74,Sheffield (obsolete),37
+E08000019,Fair health,75541,556522,13.57,Sheffield (obsolete),37
+E08000019,Bad health,25998,556522,4.67,Sheffield (obsolete),37
+E08000019,Very bad health,7570,556522,1.36,Sheffield (obsolete),37
+E08000021,Very good health,145219,300126,48.39,Newcastle upon Tyne,34
+E08000021,Good health,96614,300126,32.19,Newcastle upon Tyne,34
+E08000021,Fair health,39307,300126,13.1,Newcastle upon Tyne,34
+E08000021,Bad health,14525,300126,4.84,Newcastle upon Tyne,34
+E08000021,Very bad health,4461,300126,1.49,Newcastle upon Tyne,34
+E08000022,Very good health,96170,208965,46.02,North Tyneside,43
+E08000022,Good health,69597,208965,33.31,North Tyneside,43
+E08000022,Fair health,30204,208965,14.45,North Tyneside,43
+E08000022,Bad health,10188,208965,4.88,North Tyneside,43
+E08000022,Very bad health,2806,208965,1.34,North Tyneside,43
+E08000023,Very good health,64656,147778,43.75,South Tyneside,43
+E08000023,Good health,48869,147778,33.07,South Tyneside,43
+E08000023,Fair health,22930,147778,15.52,South Tyneside,43
+E08000023,Bad health,8709,147778,5.89,South Tyneside,43
+E08000023,Very bad health,2614,147778,1.77,South Tyneside,43
+E08000024,Very good health,118258,274171,43.13,Sunderland,43
+E08000024,Good health,90486,274171,33.0,Sunderland,43
+E08000024,Fair health,43507,274171,15.87,Sunderland,43
+E08000024,Bad health,16834,274171,6.14,Sunderland,43
+E08000024,Very bad health,5086,274171,1.86,Sunderland,43
+E08000025,Very good health,544500,1144919,47.56,Birmingham,34
+E08000025,Good health,380993,1144919,33.28,Birmingham,34
+E08000025,Fair health,150801,1144919,13.17,Birmingham,34
+E08000025,Bad health,51755,1144919,4.52,Birmingham,34
+E08000025,Very bad health,16870,1144919,1.47,Birmingham,34
+E08000026,Very good health,167651,345325,48.55,Coventry,35
+E08000026,Good health,116149,345325,33.63,Coventry,35
+E08000026,Fair health,43030,345325,12.46,Coventry,35
+E08000026,Bad health,14126,345325,4.09,Coventry,35
+E08000026,Very bad health,4369,345325,1.27,Coventry,35
+E08000027,Very good health,141846,323488,43.85,Dudley,41
+E08000027,Good health,114604,323488,35.43,Dudley,41
+E08000027,Fair health,47402,323488,14.65,Dudley,41
+E08000027,Bad health,15299,323488,4.73,Dudley,41
+E08000027,Very bad health,4337,323488,1.34,Dudley,41
+E08000028,Very good health,153337,341833,44.86,Sandwell,37
+E08000028,Good health,116762,341833,34.16,Sandwell,37
+E08000028,Fair health,49048,341833,14.35,Sandwell,37
+E08000028,Bad health,17472,341833,5.11,Sandwell,37
+E08000028,Very bad health,5214,341833,1.53,Sandwell,37
+E08000029,Very good health,106508,216240,49.25,Solihull,43
+E08000029,Good health,72191,216240,33.38,Solihull,43
+E08000029,Fair health,26816,216240,12.4,Solihull,43
+E08000029,Bad health,8293,216240,3.84,Solihull,43
+E08000029,Very bad health,2432,216240,1.12,Solihull,43
+E08000030,Very good health,126170,284124,44.41,Walsall,38
+E08000030,Good health,97681,284124,34.38,Walsall,38
+E08000030,Fair health,41567,284124,14.63,Walsall,38
+E08000030,Bad health,14222,284124,5.01,Walsall,38
+E08000030,Very bad health,4484,284124,1.58,Walsall,38
+E08000031,Very good health,118244,263727,44.84,Wolverhampton,38
+E08000031,Good health,90690,263727,34.39,Wolverhampton,38
+E08000031,Fair health,38056,263727,14.43,Wolverhampton,38
+E08000031,Bad health,12953,263727,4.91,Wolverhampton,38
+E08000031,Very bad health,3784,263727,1.43,Wolverhampton,38
+E08000032,Very good health,252136,546408,46.14,Bradford,36
+E08000032,Good health,188664,546408,34.53,Bradford,36
+E08000032,Fair health,73124,546408,13.38,Bradford,36
+E08000032,Bad health,24904,546408,4.56,Bradford,36
+E08000032,Very bad health,7580,546408,1.39,Bradford,36
+E08000033,Very good health,96309,206631,46.61,Calderdale,42
+E08000033,Good health,70657,206631,34.19,Calderdale,42
+E08000033,Fair health,27913,206631,13.51,Calderdale,42
+E08000033,Bad health,9057,206631,4.38,Calderdale,42
+E08000033,Very bad health,2695,206631,1.3,Calderdale,42
+E08000034,Very good health,201705,433217,46.56,Kirklees,39
+E08000034,Good health,149441,433217,34.5,Kirklees,39
+E08000034,Fair health,58024,433217,13.39,Kirklees,39
+E08000034,Bad health,18669,433217,4.31,Kirklees,39
+E08000034,Very bad health,5378,433217,1.24,Kirklees,39
+E08000035,Very good health,402056,811953,49.52,Leeds,36
+E08000035,Good health,270304,811953,33.29,Leeds,36
+E08000035,Fair health,98856,811953,12.18,Leeds,36
+E08000035,Bad health,31621,811953,3.89,Leeds,36
+E08000035,Very bad health,9116,811953,1.12,Leeds,36
+E08000036,Very good health,157984,353370,44.71,Wakefield,41
+E08000036,Good health,121164,353370,34.29,Wakefield,41
+E08000036,Fair health,51084,353370,14.46,Wakefield,41
+E08000036,Bad health,17900,353370,5.07,Wakefield,41
+E08000036,Very bad health,5238,353370,1.48,Wakefield,41
+E08000037,Very good health,85811,196151,43.75,Gateshead,42
+E08000037,Good health,65777,196151,33.53,Gateshead,42
+E08000037,Fair health,30117,196151,15.35,Gateshead,42
+E08000037,Bad health,11120,196151,5.67,Gateshead,42
+E08000037,Very bad health,3326,196151,1.7,Gateshead,42
+E09000001,Very good health,4937,8583,57.52,City of London,37
+E09000001,Good health,2726,8583,31.76,City of London,37
+E09000001,Fair health,687,8583,8.0,City of London,37
+E09000001,Bad health,186,8583,2.17,City of London,37
+E09000001,Very bad health,47,8583,0.55,City of London,37
+E09000002,Very good health,111929,218869,51.14,Barking and Dagenham,33
+E09000002,Good health,71978,218869,32.89,Barking and Dagenham,33
+E09000002,Fair health,24295,218869,11.1,Barking and Dagenham,33
+E09000002,Bad health,8169,218869,3.73,Barking and Dagenham,33
+E09000002,Very bad health,2498,218869,1.14,Barking and Dagenham,33
+E09000003,Very good health,213576,389344,54.86,Barnet,37
+E09000003,Good health,120802,389344,31.03,Barnet,37
+E09000003,Fair health,39317,389344,10.1,Barnet,37
+E09000003,Bad health,11724,389344,3.01,Barnet,37
+E09000003,Very bad health,3925,389344,1.01,Barnet,37
+E09000004,Very good health,125181,246473,50.79,Bexley,39
+E09000004,Good health,82371,246473,33.42,Bexley,39
+E09000004,Fair health,28260,246473,11.47,Bexley,39
+E09000004,Bad health,8128,246473,3.3,Bexley,39
+E09000004,Very bad health,2533,246473,1.03,Bexley,39
+E09000005,Very good health,176793,339814,52.03,Brent,35
+E09000005,Good health,111300,339814,32.75,Brent,35
+E09000005,Fair health,36871,339814,10.85,Brent,35
+E09000005,Bad health,11158,339814,3.28,Brent,35
+E09000005,Very bad health,3692,339814,1.09,Brent,35
+E09000006,Very good health,176211,329991,53.4,Bromley,41
+E09000006,Good health,106977,329991,32.42,Bromley,41
+E09000006,Fair health,34265,329991,10.38,Bromley,41
+E09000006,Bad health,9694,329991,2.94,Bromley,41
+E09000006,Very bad health,2844,329991,0.86,Bromley,41
+E09000007,Very good health,116692,210136,55.53,Camden,34
+E09000007,Good health,61665,210136,29.35,Camden,34
+E09000007,Fair health,21109,210136,10.05,Camden,34
+E09000007,Bad health,8013,210136,3.81,Camden,34
+E09000007,Very bad health,2657,210136,1.26,Camden,34
+E09000008,Very good health,200050,390719,51.2,Croydon,37
+E09000008,Good health,130711,390719,33.45,Croydon,37
+E09000008,Fair health,43327,390719,11.09,Croydon,37
+E09000008,Bad health,12733,390719,3.26,Croydon,37
+E09000008,Very bad health,3898,390719,1.0,Croydon,37
+E09000009,Very good health,192559,367115,52.45,Ealing,37
+E09000009,Good health,120388,367115,32.79,Ealing,37
+E09000009,Fair health,38868,367115,10.59,Ealing,37
+E09000009,Bad health,11619,367115,3.16,Ealing,37
+E09000009,Very bad health,3681,367115,1.0,Ealing,37
+E09000010,Very good health,167119,329984,50.64,Enfield,37
+E09000010,Good health,108918,329984,33.01,Enfield,37
+E09000010,Fair health,37822,329984,11.46,Enfield,37
+E09000010,Bad health,12150,329984,3.68,Enfield,37
+E09000010,Very bad health,3975,329984,1.2,Enfield,37
+E09000011,Very good health,152415,289068,52.73,Greenwich,35
+E09000011,Good health,92418,289068,31.97,Greenwich,35
+E09000011,Fair health,30949,289068,10.71,Greenwich,35
+E09000011,Bad health,10134,289068,3.51,Greenwich,35
+E09000011,Very bad health,3152,289068,1.09,Greenwich,35
+E09000012,Very good health,146836,259146,56.66,Hackney,32
+E09000012,Good health,73626,259146,28.41,Hackney,32
+E09000012,Fair health,25710,259146,9.92,Hackney,32
+E09000012,Bad health,9467,259146,3.65,Hackney,32
+E09000012,Very bad health,3507,259146,1.35,Hackney,32
+E09000013,Very good health,108069,183157,59.0,Hammersmith and Fulham,34
+E09000013,Good health,51238,183157,27.97,Hammersmith and Fulham,34
+E09000013,Fair health,16301,183157,8.9,Hammersmith and Fulham,34
+E09000013,Bad health,5603,183157,3.06,Hammersmith and Fulham,34
+E09000013,Very bad health,1946,183157,1.06,Hammersmith and Fulham,34
+E09000014,Very good health,140184,264238,53.05,Haringey,36
+E09000014,Good health,83809,264238,31.72,Haringey,36
+E09000014,Fair health,27408,264238,10.37,Haringey,36
+E09000014,Bad health,9562,264238,3.62,Haringey,36
+E09000014,Very bad health,3275,264238,1.24,Haringey,36
+E09000015,Very good health,134553,261203,51.51,Harrow,38
+E09000015,Good health,88594,261203,33.92,Harrow,38
+E09000015,Fair health,27907,261203,10.68,Harrow,38
+E09000015,Bad health,7715,261203,2.95,Harrow,38
+E09000015,Very bad health,2434,261203,0.93,Harrow,38
+E09000016,Very good health,130764,262052,49.9,Havering,39
+E09000016,Good health,89013,262052,33.97,Havering,39
+E09000016,Fair health,30642,262052,11.69,Havering,39
+E09000016,Bad health,8941,262052,3.41,Havering,39
+E09000016,Very bad health,2692,262052,1.03,Havering,39
+E09000017,Very good health,156976,305909,51.31,Hillingdon,37
+E09000017,Good health,103725,305909,33.91,Hillingdon,37
+E09000017,Fair health,33088,305909,10.82,Hillingdon,37
+E09000017,Bad health,9244,305909,3.02,Hillingdon,37
+E09000017,Very bad health,2876,305909,0.94,Hillingdon,37
+E09000018,Very good health,149624,288181,51.92,Hounslow,36
+E09000018,Good health,96314,288181,33.42,Hounslow,36
+E09000018,Fair health,30323,288181,10.52,Hounslow,36
+E09000018,Bad health,9017,288181,3.13,Hounslow,36
+E09000018,Very bad health,2903,288181,1.01,Hounslow,36
+E09000019,Very good health,118690,216589,54.8,Islington,33
+E09000019,Good health,63421,216589,29.28,Islington,33
+E09000019,Fair health,22469,216589,10.37,Islington,33
+E09000019,Bad health,8901,216589,4.11,Islington,33
+E09000019,Very bad health,3108,216589,1.43,Islington,33
+E09000020,Very good health,85462,143375,59.61,Kensington and Chelsea,38
+E09000020,Good health,38302,143375,26.71,Kensington and Chelsea,38
+E09000020,Fair health,13191,143375,9.2,Kensington and Chelsea,38
+E09000020,Bad health,4806,143375,3.35,Kensington and Chelsea,38
+E09000020,Very bad health,1614,143375,1.13,Kensington and Chelsea,38
+E09000021,Very good health,90958,168063,54.12,Kingston upon Thames,38
+E09000021,Good health,54724,168063,32.56,Kingston upon Thames,38
+E09000021,Fair health,16710,168063,9.94,Kingston upon Thames,38
+E09000021,Bad health,4367,168063,2.6,Kingston upon Thames,38
+E09000021,Very bad health,1304,168063,0.78,Kingston upon Thames,38
+E09000022,Very good health,178535,317654,56.2,Lambeth,33
+E09000022,Good health,96211,317654,30.29,Lambeth,33
+E09000022,Fair health,30240,317654,9.52,Lambeth,33
+E09000022,Bad health,9582,317654,3.02,Lambeth,33
+E09000022,Very bad health,3086,317654,0.97,Lambeth,33
+E09000023,Very good health,159645,300550,53.12,Lewisham,35
+E09000023,Good health,96291,300550,32.04,Lewisham,35
+E09000023,Fair health,31609,300550,10.52,Lewisham,35
+E09000023,Bad health,9891,300550,3.29,Lewisham,35
+E09000023,Very bad health,3114,300550,1.04,Lewisham,35
+E09000024,Very good health,118140,215182,54.9,Merton,37
+E09000024,Good health,68979,215182,32.06,Merton,37
+E09000024,Fair health,20760,215182,9.65,Merton,37
+E09000024,Bad health,5599,215182,2.6,Merton,37
+E09000024,Very bad health,1704,215182,0.79,Merton,37
+E09000025,Very good health,180480,351036,51.41,Newham,32
+E09000025,Good health,116872,351036,33.29,Newham,32
+E09000025,Fair health,37801,351036,10.77,Newham,32
+E09000025,Bad health,11823,351036,3.37,Newham,32
+E09000025,Very bad health,4060,351036,1.16,Newham,32
+E09000026,Very good health,159202,310258,51.31,Redbridge,36
+E09000026,Good health,105549,310258,34.02,Redbridge,36
+E09000026,Fair health,33011,310258,10.64,Redbridge,36
+E09000026,Bad health,9467,310258,3.05,Redbridge,36
+E09000026,Very bad health,3029,310258,0.98,Redbridge,36
+E09000027,Very good health,115959,195278,59.38,Richmond upon Thames,41
+E09000027,Good health,57054,195278,29.22,Richmond upon Thames,41
+E09000027,Fair health,16331,195278,8.36,Richmond upon Thames,41
+E09000027,Bad health,4574,195278,2.34,Richmond upon Thames,41
+E09000027,Very bad health,1360,195278,0.7,Richmond upon Thames,41
+E09000028,Very good health,171620,307637,55.79,Southwark,33
+E09000028,Good health,93329,307637,30.34,Southwark,33
+E09000028,Fair health,30002,307637,9.75,Southwark,33
+E09000028,Bad health,9552,307637,3.1,Southwark,33
+E09000028,Very bad health,3134,307637,1.02,Southwark,33
+E09000029,Very good health,107792,209639,51.42,Sutton,39
+E09000029,Good health,71329,209639,34.02,Sutton,39
+E09000029,Fair health,22304,209639,10.64,Sutton,39
+E09000029,Bad health,6322,209639,3.02,Sutton,39
+E09000029,Very bad health,1892,209639,0.9,Sutton,39
+E09000030,Very good health,164359,310306,52.97,Tower Hamlets,30
+E09000030,Good health,99697,310306,32.13,Tower Hamlets,30
+E09000030,Fair health,31182,310306,10.05,Tower Hamlets,30
+E09000030,Bad health,11172,310306,3.6,Tower Hamlets,30
+E09000030,Very bad health,3896,310306,1.26,Tower Hamlets,30
+E09000031,Very good health,143437,278426,51.52,Waltham Forest,35
+E09000031,Good health,93169,278426,33.46,Waltham Forest,35
+E09000031,Fair health,29590,278426,10.63,Waltham Forest,35
+E09000031,Bad health,9277,278426,3.33,Waltham Forest,35
+E09000031,Very bad health,2953,278426,1.06,Waltham Forest,35
+E09000032,Very good health,198576,327506,60.63,Wandsworth,33
+E09000032,Good health,91919,327506,28.07,Wandsworth,33
+E09000032,Fair health,26746,327506,8.17,Wandsworth,33
+E09000032,Bad health,7868,327506,2.4,Wandsworth,33
+E09000032,Very bad health,2397,327506,0.73,Wandsworth,33
+E09000033,Very good health,115033,204236,56.32,Westminster,35
+E09000033,Good health,58977,204236,28.88,Westminster,35
+E09000033,Fair health,19840,204236,9.71,Westminster,35
+E09000033,Bad health,7404,204236,3.63,Westminster,35
+E09000033,Very bad health,2982,204236,1.46,Westminster,35
+W06000001,Very good health,32788,68878,47.6,Isle of Anglesey,48
+W06000001,Good health,21937,68878,31.85,Isle of Anglesey,48
+W06000001,Fair health,10216,68878,14.83,Isle of Anglesey,48
+W06000001,Bad health,3059,68878,4.44,Isle of Anglesey,48
+W06000001,Very bad health,878,68878,1.27,Isle of Anglesey,48
+W06000002,Very good health,58620,117391,49.94,Gwynedd,45
+W06000002,Good health,37038,117391,31.55,Gwynedd,45
+W06000002,Fair health,15668,117391,13.35,Gwynedd,45
+W06000002,Bad health,4741,117391,4.04,Gwynedd,45
+W06000002,Very bad health,1324,117391,1.13,Gwynedd,45
+W06000003,Very good health,51092,114742,44.53,Conwy,49
+W06000003,Good health,38345,114742,33.42,Conwy,49
+W06000003,Fair health,17780,114742,15.5,Conwy,49
+W06000003,Bad health,5819,114742,5.07,Conwy,49
+W06000003,Very bad health,1706,114742,1.49,Conwy,49
+W06000004,Very good health,43115,95817,45.0,Denbighshire,47
+W06000004,Good health,31254,95817,32.62,Denbighshire,47
+W06000004,Fair health,14621,95817,15.26,Denbighshire,47
+W06000004,Bad health,5179,95817,5.41,Denbighshire,47
+W06000004,Very bad health,1648,95817,1.72,Denbighshire,47
+W06000005,Very good health,73431,154962,47.39,Flintshire,44
+W06000005,Good health,51838,154962,33.45,Flintshire,44
+W06000005,Fair health,20920,154962,13.5,Flintshire,44
+W06000005,Bad health,6716,154962,4.33,Flintshire,44
+W06000005,Very bad health,2057,154962,1.33,Flintshire,44
+W06000006,Very good health,61404,135117,45.45,Wrexham,42
+W06000006,Good health,45998,135117,34.04,Wrexham,42
+W06000006,Fair health,19316,135117,14.3,Wrexham,42
+W06000006,Bad health,6588,135117,4.88,Wrexham,42
+W06000006,Very bad health,1811,135117,1.34,Wrexham,42
+W06000008,Very good health,32195,71475,45.04,Ceredigion,48
+W06000008,Good health,24054,71475,33.65,Ceredigion,48
+W06000008,Fair health,10881,71475,15.22,Ceredigion,48
+W06000008,Bad health,3328,71475,4.66,Ceredigion,48
+W06000008,Very bad health,1017,71475,1.42,Ceredigion,48
+W06000009,Very good health,55187,123360,44.74,Pembrokeshire,48
+W06000009,Good health,41206,123360,33.4,Pembrokeshire,48
+W06000009,Fair health,18605,123360,15.08,Pembrokeshire,48
+W06000009,Bad health,6375,123360,5.17,Pembrokeshire,48
+W06000009,Very bad health,1987,123360,1.61,Pembrokeshire,48
+W06000010,Very good health,84785,187897,45.12,Carmarthenshire,46
+W06000010,Good health,59550,187897,31.69,Carmarthenshire,46
+W06000010,Fair health,29491,187897,15.7,Carmarthenshire,46
+W06000010,Bad health,10554,187897,5.62,Carmarthenshire,46
+W06000010,Very bad health,3517,187897,1.87,Carmarthenshire,46
+W06000011,Very good health,113823,238490,47.73,Swansea,41
+W06000011,Good health,73789,238490,30.94,Swansea,41
+W06000011,Fair health,33363,238490,13.99,Swansea,41
+W06000011,Bad health,13061,238490,5.48,Swansea,41
+W06000011,Very bad health,4454,238490,1.87,Swansea,41
+W06000012,Very good health,64583,142289,45.39,Neath Port Talbot,43
+W06000012,Good health,43219,142289,30.37,Neath Port Talbot,43
+W06000012,Fair health,21961,142289,15.43,Neath Port Talbot,43
+W06000012,Bad health,9388,142289,6.6,Neath Port Talbot,43
+W06000012,Very bad health,3138,142289,2.21,Neath Port Talbot,43
+W06000013,Very good health,66751,145488,45.88,Bridgend,43
+W06000013,Good health,46142,145488,31.72,Bridgend,43
+W06000013,Fair health,21589,145488,14.84,Bridgend,43
+W06000013,Bad health,8254,145488,5.67,Bridgend,43
+W06000013,Very bad health,2752,145488,1.89,Bridgend,43
+W06000014,Very good health,63999,131939,48.51,Vale of Glamorgan,44
+W06000014,Good health,42548,131939,32.25,Vale of Glamorgan,44
+W06000014,Fair health,17533,131939,13.29,Vale of Glamorgan,44
+W06000014,Bad health,5906,131939,4.48,Vale of Glamorgan,44
+W06000014,Very bad health,1953,131939,1.48,Vale of Glamorgan,44
+W06000015,Very good health,181604,362308,50.12,Cardiff,35
+W06000015,Good health,115195,362308,31.79,Cardiff,35
+W06000015,Fair health,44144,362308,12.18,Cardiff,35
+W06000015,Bad health,16193,362308,4.47,Cardiff,35
+W06000015,Very bad health,5172,362308,1.43,Cardiff,35
+W06000016,Very good health,105823,237651,44.53,Rhondda Cynon Taf,41
+W06000016,Good health,75427,237651,31.74,Rhondda Cynon Taf,41
+W06000016,Fair health,36863,237651,15.51,Rhondda Cynon Taf,41
+W06000016,Bad health,14925,237651,6.28,Rhondda Cynon Taf,41
+W06000016,Very bad health,4613,237651,1.94,Rhondda Cynon Taf,41
+W06000018,Very good health,76930,175952,43.72,Caerphilly,42
+W06000018,Good health,56471,175952,32.09,Caerphilly,42
+W06000018,Fair health,27645,175952,15.71,Caerphilly,42
+W06000018,Bad health,11275,175952,6.41,Caerphilly,42
+W06000018,Very bad health,3631,175952,2.06,Caerphilly,42
+W06000019,Very good health,27465,66904,41.05,Blaenau Gwent,43
+W06000019,Good health,21865,66904,32.68,Blaenau Gwent,43
+W06000019,Fair health,11210,66904,16.76,Blaenau Gwent,43
+W06000019,Bad health,4785,66904,7.15,Blaenau Gwent,43
+W06000019,Very bad health,1579,66904,2.36,Blaenau Gwent,43
+W06000020,Very good health,39335,92276,42.63,Torfaen,42
+W06000020,Good health,31301,92276,33.92,Torfaen,42
+W06000020,Fair health,14340,92276,15.54,Torfaen,42
+W06000020,Bad health,5584,92276,6.05,Torfaen,42
+W06000020,Very bad health,1716,92276,1.86,Torfaen,42
+W06000021,Very good health,43165,92955,46.44,Monmouthshire,49
+W06000021,Good health,31887,92955,34.3,Monmouthshire,49
+W06000021,Fair health,12655,92955,13.61,Monmouthshire,49
+W06000021,Bad health,4060,92955,4.37,Monmouthshire,49
+W06000021,Very bad health,1188,92955,1.28,Monmouthshire,49
+W06000022,Very good health,74351,159592,46.59,Newport,38
+W06000022,Good health,52689,159592,33.01,Newport,38
+W06000022,Fair health,21937,159592,13.75,Newport,38
+W06000022,Bad health,8159,159592,5.11,Newport,38
+W06000022,Very bad health,2456,159592,1.54,Newport,38
+W06000023,Very good health,59313,133169,44.54,Powys,50
+W06000023,Good health,45946,133169,34.5,Powys,50
+W06000023,Fair health,20078,133169,15.08,Powys,50
+W06000023,Bad health,6040,133169,4.54,Powys,50
+W06000023,Very bad health,1792,133169,1.35,Powys,50
+W06000024,Very good health,26718,58839,45.41,Merthyr Tydfil,40
+W06000024,Good health,17786,58839,30.23,Merthyr Tydfil,40
+W06000024,Fair health,8837,58839,15.02,Merthyr Tydfil,40
+W06000024,Bad health,4112,58839,6.99,Merthyr Tydfil,40
+W06000024,Very bad health,1386,58839,2.36,Merthyr Tydfil,40
